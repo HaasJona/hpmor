@@ -15,733 +15,733 @@
       <navLabel>
         <text>Chapter 1. A Day of Very Low Probability</text>
       </navLabel>
-      <content src="Text/rationality_split_000.html"/>
+      <content src="Text/chapter001.xhtml"/>
     </navPoint>
     <navPoint id="ub33dd118-3581-4626-8989-680a447cb94b" playOrder="2">
       <navLabel>
         <text>Chapter 2. Everything I Believe Is False</text>
       </navLabel>
-      <content src="Text/rationality_split_001.html"/>
+      <content src="Text/chapter002.xhtml"/>
     </navPoint>
     <navPoint id="uc7af2bf8-dc40-48ce-b6f4-35b3f47ac26d" playOrder="3">
       <navLabel>
         <text>Chapter 3. Comparing Reality To Its Alternatives</text>
       </navLabel>
-      <content src="Text/rationality_split_002.html"/>
+      <content src="Text/chapter003.xhtml"/>
     </navPoint>
     <navPoint id="uc091b648-5d00-4116-950e-b39e672945cf" playOrder="4">
       <navLabel>
         <text>Chapter 4. The Efficient Market Hypothesis</text>
       </navLabel>
-      <content src="Text/rationality_split_003.html"/>
+      <content src="Text/chapter004.xhtml"/>
     </navPoint>
     <navPoint id="uec56bd9c-b7c1-4771-a5d6-9ca04d6d49f1" playOrder="5">
       <navLabel>
         <text>Chapter 5. The Fundamental Attribution Error</text>
       </navLabel>
-      <content src="Text/rationality_split_004.html"/>
+      <content src="Text/chapter005.xhtml"/>
     </navPoint>
     <navPoint id="u87df429e-5ce6-494d-8cfd-5e479bd432a6" playOrder="6">
       <navLabel>
         <text>Chapter 6. The Planning Fallacy</text>
       </navLabel>
-      <content src="Text/rationality_split_005.html"/>
+      <content src="Text/chapter006.xhtml"/>
     </navPoint>
     <navPoint id="u17fbb794-1cee-4bc3-81e9-fca0a82af510" playOrder="7">
       <navLabel>
         <text>Chapter 7. Reciprocation</text>
       </navLabel>
-      <content src="Text/rationality_split_006.html"/>
+      <content src="Text/chapter007.xhtml"/>
     </navPoint>
     <navPoint id="u6dc2995b-b164-4a87-a44c-32bc14483894" playOrder="8">
       <navLabel>
         <text>Chapter 8. Positive Bias</text>
       </navLabel>
-      <content src="Text/rationality_split_007.html"/>
+      <content src="Text/chapter008.xhtml"/>
     </navPoint>
     <navPoint id="udfc86b32-755b-4cef-88c3-ef3be6c2ae31" playOrder="9">
       <navLabel>
         <text>Chapter 9. Title Redacted, Part I</text>
       </navLabel>
-      <content src="Text/rationality_split_008.html"/>
+      <content src="Text/chapter009.xhtml"/>
     </navPoint>
     <navPoint id="u6c9ee0e1-5bd5-49fa-ad04-e8a5b547d1d9" playOrder="10">
       <navLabel>
         <text>Chapter 10. Self Awareness, Part II</text>
       </navLabel>
-      <content src="Text/rationality_split_009.html"/>
+      <content src="Text/chapter010.xhtml"/>
     </navPoint>
     <navPoint id="u59488b21-0e6d-493e-a1d8-3222484f5d60" playOrder="11">
       <navLabel>
         <text>Chapter 11. Omake Files 1, 2, 3</text>
       </navLabel>
-      <content src="Text/rationality_split_010.html"/>
+      <content src="Text/chapter011.xhtml"/>
     </navPoint>
     <navPoint id="ub495f805-b622-43b8-a68c-8dc1e5a7bede" playOrder="12">
       <navLabel>
         <text>Chapter 12. Impulse Control</text>
       </navLabel>
-      <content src="Text/rationality_split_011.html"/>
+      <content src="Text/chapter012.xhtml"/>
     </navPoint>
     <navPoint id="u0700df1b-ba4b-4ffa-8a0f-d4fa2ddf380b" playOrder="13">
       <navLabel>
         <text>Chapter 13. Asking the Wrong Questions</text>
       </navLabel>
-      <content src="Text/rationality_split_012.html"/>
+      <content src="Text/chapter013.xhtml"/>
     </navPoint>
     <navPoint id="ud232cbaf-0be8-47cc-949e-c540b0a0160c" playOrder="14">
       <navLabel>
         <text>Chapter 14. The Unknown and the Unknowable</text>
       </navLabel>
-      <content src="Text/rationality_split_013.html"/>
+      <content src="Text/chapter014.xhtml"/>
     </navPoint>
     <navPoint id="u70cf4873-e6ef-479a-85cd-c10616c69803" playOrder="15">
       <navLabel>
         <text>Chapter 15. Conscientiousness</text>
       </navLabel>
-      <content src="Text/rationality_split_014.html"/>
+      <content src="Text/chapter015.xhtml"/>
     </navPoint>
     <navPoint id="u2dc4f03e-b76a-4326-9c48-3857b16a9b6f" playOrder="16">
       <navLabel>
         <text>Chapter 16. Lateral Thinking</text>
       </navLabel>
-      <content src="Text/rationality_split_015.html"/>
+      <content src="Text/chapter016.xhtml"/>
     </navPoint>
     <navPoint id="u4aa16024-9262-4b6a-8e97-35af551a5e34" playOrder="17">
       <navLabel>
         <text>Chapter 17. Locating the Hypothesis</text>
       </navLabel>
-      <content src="Text/rationality_split_016.html"/>
+      <content src="Text/chapter017.xhtml"/>
     </navPoint>
     <navPoint id="u1326ff45-b85a-4f61-8a13-5c38ae238445" playOrder="18">
       <navLabel>
         <text>Chapter 18. Dominance Hierarchies</text>
       </navLabel>
-      <content src="Text/rationality_split_017.html"/>
+      <content src="Text/chapter018.xhtml"/>
     </navPoint>
     <navPoint id="u74c46678-f247-4dcb-ad81-7f2d4a0bb169" playOrder="19">
       <navLabel>
         <text>Chapter 19. Delayed Gratification</text>
       </navLabel>
-      <content src="Text/rationality_split_018.html"/>
+      <content src="Text/chapter019.xhtml"/>
     </navPoint>
     <navPoint id="u7466914b-2d08-4a14-92ef-04a01bc24906" playOrder="20">
       <navLabel>
         <text>Chapter 20. Bayes's Theorem</text>
       </navLabel>
-      <content src="Text/rationality_split_019.html"/>
+      <content src="Text/chapter020.xhtml"/>
     </navPoint>
     <navPoint id="ud4f26ae9-10b1-4dcd-8915-9feee0796b2a" playOrder="21">
       <navLabel>
         <text>Chapter 21. Rationalization</text>
       </navLabel>
-      <content src="Text/rationality_split_020.html"/>
+      <content src="Text/chapter021.xhtml"/>
     </navPoint>
     <navPoint id="u57df8892-78a4-48a4-8e5f-7f14e1837361" playOrder="22">
       <navLabel>
         <text>Chapter 22. The Scientific Method</text>
       </navLabel>
-      <content src="Text/rationality_split_021.html"/>
+      <content src="Text/chapter022.xhtml"/>
     </navPoint>
     <navPoint id="u76218ca3-ec77-4047-ba5b-1242e2779dd1" playOrder="23">
       <navLabel>
         <text>Chapter 23. Belief in Belief</text>
       </navLabel>
-      <content src="Text/rationality_split_022.html"/>
+      <content src="Text/chapter023.xhtml"/>
     </navPoint>
     <navPoint id="uade81c79-d906-4aa3-b9dc-11b322ce7756" playOrder="24">
       <navLabel>
         <text>Chapter 24. Machiavellian Intelligence Hypothesis</text>
       </navLabel>
-      <content src="Text/rationality_split_023.html"/>
+      <content src="Text/chapter024.xhtml"/>
     </navPoint>
     <navPoint id="uf02be73c-5439-43e5-ab38-c8c0ca8dc609" playOrder="25">
       <navLabel>
         <text>Chapter 25. Hold Off on Proposing Solutions</text>
       </navLabel>
-      <content src="Text/rationality_split_024.html"/>
+      <content src="Text/chapter025.xhtml"/>
     </navPoint>
     <navPoint id="u7c23db62-e470-45b2-a6d7-5912057d861a" playOrder="26">
       <navLabel>
         <text>Chapter 26. Noticing Confusion</text>
       </navLabel>
-      <content src="Text/rationality_split_025.html"/>
+      <content src="Text/chapter026.xhtml"/>
     </navPoint>
     <navPoint id="ufcafcfc9-4178-4516-b3b7-1f949be0fa03" playOrder="27">
       <navLabel>
         <text>Chapter 27. Empathy</text>
       </navLabel>
-      <content src="Text/rationality_split_026.html"/>
+      <content src="Text/chapter027.xhtml"/>
     </navPoint>
     <navPoint id="u3ef65bd4-99f2-4232-93f2-dd5c000cb2b7" playOrder="28">
       <navLabel>
         <text>Chapter 28. Reductionism</text>
       </navLabel>
-      <content src="Text/rationality_split_027.html"/>
+      <content src="Text/chapter028.xhtml"/>
     </navPoint>
     <navPoint id="u2d0627ad-42d5-43b8-a91b-37e52c93e980" playOrder="29">
       <navLabel>
         <text>Chapter 29. Egocentric Bias</text>
       </navLabel>
-      <content src="Text/rationality_split_028.html"/>
+      <content src="Text/chapter029.xhtml"/>
     </navPoint>
     <navPoint id="uf32d1121-f474-45a0-8556-99def4f969dc" playOrder="30">
       <navLabel>
         <text>Chapter 30. Working in Groups, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_029.html"/>
+      <content src="Text/chapter030.xhtml"/>
     </navPoint>
     <navPoint id="u598a792d-8247-4521-8da9-afdea2c7618b" playOrder="31">
       <navLabel>
         <text>Chapter 31. Working in Groups, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_030.html"/>
+      <content src="Text/chapter031.xhtml"/>
     </navPoint>
     <navPoint id="u9033abd6-b5c9-44b4-8d90-c46b8e88a686" playOrder="32">
       <navLabel>
         <text>Chapter 32. Interlude: Personal Financial Management</text>
       </navLabel>
-      <content src="Text/rationality_split_031.html"/>
+      <content src="Text/chapter032.xhtml"/>
     </navPoint>
     <navPoint id="uc40bfd8b-26e1-4ca8-948e-81c6cf86fa1a" playOrder="33">
       <navLabel>
         <text>Chapter 33. Coordination Problems, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_032.html"/>
+      <content src="Text/chapter033.xhtml"/>
     </navPoint>
     <navPoint id="ufa8fc826-0e44-4d4c-9fc5-ee991dd85a22" playOrder="34">
       <navLabel>
         <text>Chapter 34. Coordination Problems, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_033.html"/>
+      <content src="Text/chapter034.xhtml"/>
     </navPoint>
     <navPoint id="u301c3aee-9f7b-4b48-84f0-0fd147127dec" playOrder="35">
       <navLabel>
         <text>Chapter 35. Coordination Problems, Pt 3</text>
       </navLabel>
-      <content src="Text/rationality_split_034.html"/>
+      <content src="Text/chapter035.xhtml"/>
     </navPoint>
     <navPoint id="u2eeb492c-59c4-4950-8152-943820743b1b" playOrder="36">
       <navLabel>
         <text>Chapter 36. Status Differentials</text>
       </navLabel>
-      <content src="Text/rationality_split_035.html"/>
+      <content src="Text/chapter036.xhtml"/>
     </navPoint>
     <navPoint id="ue2fe050b-8a74-419e-80d2-b4d348e54450" playOrder="37">
       <navLabel>
         <text>Chapter 37. Interlude: Crossing the Boundary</text>
       </navLabel>
-      <content src="Text/rationality_split_036.html"/>
+      <content src="Text/chapter037.xhtml"/>
     </navPoint>
     <navPoint id="u2dfefa02-0b12-47ec-b76f-ba32808cce63" playOrder="38">
       <navLabel>
         <text>Chapter 38. The Cardinal Sin</text>
       </navLabel>
-      <content src="Text/rationality_split_037.html"/>
+      <content src="Text/chapter038.xhtml"/>
     </navPoint>
     <navPoint id="ua1e2aee4-8fd3-4797-8247-deebef756988" playOrder="39">
       <navLabel>
         <text>Chapter 39. Pretending to be Wise, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_038.html"/>
+      <content src="Text/chapter039.xhtml"/>
     </navPoint>
     <navPoint id="ud0457daa-4c0a-411b-91b5-a16a5d897e3c" playOrder="40">
       <navLabel>
         <text>Chapter 40. Pretending to be Wise, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_039.html"/>
+      <content src="Text/chapter040.xhtml"/>
     </navPoint>
     <navPoint id="u317bfe40-bdfb-474d-b3b0-b8bbc39e7db8" playOrder="41">
       <navLabel>
         <text>Chapter 41. Frontal Override</text>
       </navLabel>
-      <content src="Text/rationality_split_040.html"/>
+      <content src="Text/chapter041.xhtml"/>
     </navPoint>
     <navPoint id="uac49f794-2141-4cbb-ae5e-4f1fa84dc677" playOrder="42">
       <navLabel>
         <text>Chapter 42. Courage</text>
       </navLabel>
-      <content src="Text/rationality_split_041.html"/>
+      <content src="Text/chapter042.xhtml"/>
     </navPoint>
     <navPoint id="uedbb3026-8873-48a9-be41-c9f2105d042c" playOrder="43">
       <navLabel>
         <text>Chapter 43. Humanism, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_042.html"/>
+      <content src="Text/chapter043.xhtml"/>
     </navPoint>
     <navPoint id="udcc722fb-37d2-4866-8c7b-1571002740ec" playOrder="44">
       <navLabel>
         <text>Chapter 44. Humanism, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_043.html"/>
+      <content src="Text/chapter044.xhtml"/>
     </navPoint>
     <navPoint id="u3f0c1f44-e4d2-49dd-b926-e5adf7e1a9ce" playOrder="45">
       <navLabel>
         <text>Chapter 45. Humanism, Pt 3</text>
       </navLabel>
-      <content src="Text/rationality_split_044.html"/>
+      <content src="Text/chapter045.xhtml"/>
     </navPoint>
     <navPoint id="u624ebf46-6ab8-47f5-bf21-a79ce2c96c9f" playOrder="46">
       <navLabel>
         <text>Chapter 46. Humanism, Pt 4</text>
       </navLabel>
-      <content src="Text/rationality_split_045.html"/>
+      <content src="Text/chapter046.xhtml"/>
     </navPoint>
     <navPoint id="uec5c8135-d9d9-474e-ab72-4396426a5436" playOrder="47">
       <navLabel>
         <text>Chapter 47. Personhood Theory</text>
       </navLabel>
-      <content src="Text/rationality_split_046.html"/>
+      <content src="Text/chapter047.xhtml"/>
     </navPoint>
     <navPoint id="u158e2dc9-36a3-48b4-a05f-b77d1f936d9e" playOrder="48">
       <navLabel>
         <text>Chapter 48. Utilitarian Priorities</text>
       </navLabel>
-      <content src="Text/rationality_split_047.html"/>
+      <content src="Text/chapter048.xhtml"/>
     </navPoint>
     <navPoint id="u86f90c8a-481d-414e-9931-e3adbf833209" playOrder="49">
       <navLabel>
         <text>Chapter 49. Prior Information</text>
       </navLabel>
-      <content src="Text/rationality_split_048.html"/>
+      <content src="Text/chapter049.xhtml"/>
     </navPoint>
     <navPoint id="u18c40e7d-faeb-487e-8ce9-3af9bae4e978" playOrder="50">
       <navLabel>
         <text>Chapter 50. Self Centeredness</text>
       </navLabel>
-      <content src="Text/rationality_split_049.html"/>
+      <content src="Text/chapter050.xhtml"/>
     </navPoint>
     <navPoint id="uc661af07-579c-487a-a9c1-74610e2f97d1" playOrder="51">
       <navLabel>
         <text>Chapter 51. Title Redacted, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_050.html"/>
+      <content src="Text/chapter051.xhtml"/>
     </navPoint>
     <navPoint id="u9654d814-5905-44ae-bfa1-4e4094b9df3a" playOrder="52">
       <navLabel>
         <text>Chapter 52. The Stanford Prison Experiment, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_051.html"/>
+      <content src="Text/chapter052.xhtml"/>
     </navPoint>
     <navPoint id="u13739c4f-74c7-4302-9579-e38b3507ce58" playOrder="53">
       <navLabel>
         <text>Chapter 53. The Stanford Prison Experiment, Pt 3</text>
       </navLabel>
-      <content src="Text/rationality_split_052.html"/>
+      <content src="Text/chapter053.xhtml"/>
     </navPoint>
     <navPoint id="u1a76629d-3a48-4c23-a093-1aa0b0442ee8" playOrder="54">
       <navLabel>
         <text>Chapter 54. The Stanford Prison Experiment, Pt 4</text>
       </navLabel>
-      <content src="Text/rationality_split_053.html"/>
+      <content src="Text/chapter054.xhtml"/>
     </navPoint>
     <navPoint id="ue698d71d-e221-459f-8a68-ef9e5cbddcb5" playOrder="55">
       <navLabel>
         <text>Chapter 55. The Stanford Prison Experiment, Pt 5</text>
       </navLabel>
-      <content src="Text/rationality_split_054.html"/>
+      <content src="Text/chapter055.xhtml"/>
     </navPoint>
     <navPoint id="u2b3486a6-e8d1-4c80-a940-9f832ac35491" playOrder="56">
       <navLabel>
         <text>Chapter 56. TSPE, Constrained Optimization, Pt 6</text>
       </navLabel>
-      <content src="Text/rationality_split_055.html"/>
+      <content src="Text/chapter056.xhtml"/>
     </navPoint>
     <navPoint id="u0e57a38e-74f0-4a3f-9b2c-0528fadd17db" playOrder="57">
       <navLabel>
         <text>Chapter 57. TSPE, Constrained Cognition, Pt 7</text>
       </navLabel>
-      <content src="Text/rationality_split_056.html"/>
+      <content src="Text/chapter057.xhtml"/>
     </navPoint>
     <navPoint id="uc3fea32e-294d-43a4-8d97-c16d6f949b06" playOrder="58">
       <navLabel>
         <text>Chapter 58. TSPE, Constrained Cognition, Pt 8</text>
       </navLabel>
-      <content src="Text/rationality_split_057.html"/>
+      <content src="Text/chapter058.xhtml"/>
     </navPoint>
     <navPoint id="ufa64316e-756c-466d-9d9e-9c0eeadd5b67" playOrder="59">
       <navLabel>
         <text>Chapter 59. TSPE, Curiosity, Pt 9</text>
       </navLabel>
-      <content src="Text/rationality_split_058.html"/>
+      <content src="Text/chapter059.xhtml"/>
     </navPoint>
     <navPoint id="uefbd0da1-46d7-4b50-94a9-a6d210dd1876" playOrder="60">
       <navLabel>
         <text>Chapter 60. The Stanford Prison Experiment, Pt 10</text>
       </navLabel>
-      <content src="Text/rationality_split_059.html"/>
+      <content src="Text/chapter060.xhtml"/>
     </navPoint>
     <navPoint id="u95d49dbd-04c0-4f16-ad9e-f67a4eaa8d2d" playOrder="61">
       <navLabel>
         <text>Chapter 61. TSPE, Secrecy and Openness, Pt 11</text>
       </navLabel>
-      <content src="Text/rationality_split_060.html"/>
+      <content src="Text/chapter061.xhtml"/>
     </navPoint>
     <navPoint id="u7f834ca3-f17d-494d-8be9-80c4697aee28" playOrder="62">
       <navLabel>
         <text>Chapter 62. The Stanford Prison Experiment, Final</text>
       </navLabel>
-      <content src="Text/rationality_split_061.html"/>
+      <content src="Text/chapter062.xhtml"/>
     </navPoint>
     <navPoint id="u06fd5c71-18b2-4e99-9ed4-41fdd4ee477c" playOrder="63">
       <navLabel>
         <text>Chapter 63. TSPE, Aftermaths</text>
       </navLabel>
-      <content src="Text/rationality_split_062.html"/>
+      <content src="Text/chapter063.xhtml"/>
     </navPoint>
     <navPoint id="u0952ff66-100a-4a7a-aa25-1bf1455a23ed" playOrder="64">
       <navLabel>
         <text>Chapter 64. Omake Files 4, Alternate Parallels</text>
       </navLabel>
-      <content src="Text/rationality_split_063.html"/>
+      <content src="Text/chapter064.xhtml"/>
     </navPoint>
     <navPoint id="u9e5ea37e-e547-4cac-a839-f22e1eef680d" playOrder="65">
       <navLabel>
         <text>Chapter 65. Contagious Lies</text>
       </navLabel>
-      <content src="Text/rationality_split_064.html"/>
+      <content src="Text/chapter065.xhtml"/>
     </navPoint>
     <navPoint id="uf4cf3bf0-5a62-4bd1-8e01-ef51cee70ebe" playOrder="66">
       <navLabel>
         <text>Chapter 66. Self Actualization, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_065.html"/>
+      <content src="Text/chapter066.xhtml"/>
     </navPoint>
     <navPoint id="ub92a26ba-0cbb-4a26-beab-91e96ea5e79a" playOrder="67">
       <navLabel>
         <text>Chapter 67. Self Actualization, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_066.html"/>
+      <content src="Text/chapter067.xhtml"/>
     </navPoint>
     <navPoint id="ueb0d07f7-8995-481a-b8b8-91af01132fa5" playOrder="68">
       <navLabel>
         <text>Chapter 68. Self Actualization, Pt 3</text>
       </navLabel>
-      <content src="Text/rationality_split_067.html"/>
+      <content src="Text/chapter068.xhtml"/>
     </navPoint>
     <navPoint id="u3058d8aa-c171-4b38-94ff-309bd03a0dad" playOrder="69">
       <navLabel>
         <text>Chapter 69. Self Actualization, Pt 4</text>
       </navLabel>
-      <content src="Text/rationality_split_068.html"/>
+      <content src="Text/chapter069.xhtml"/>
     </navPoint>
     <navPoint id="u64af3657-beda-4a46-ba09-ee7027830e0d" playOrder="70">
       <navLabel>
         <text>Chapter 70. Self Actualization, Pt 5</text>
       </navLabel>
-      <content src="Text/rationality_split_069.html"/>
+      <content src="Text/chapter070.xhtml"/>
     </navPoint>
     <navPoint id="u58cc0668-ab7d-44fc-9c40-1a13037d1789" playOrder="71">
       <navLabel>
         <text>Chapter 71. Self Actualization, Pt 6</text>
       </navLabel>
-      <content src="Text/rationality_split_070.html"/>
+      <content src="Text/chapter071.xhtml"/>
     </navPoint>
     <navPoint id="u6096e6b8-ecb5-4062-b05c-5cebfe09ceb2" playOrder="72">
       <navLabel>
         <text>Chapter 72. SA, Plausible Deniability, Pt 7</text>
       </navLabel>
-      <content src="Text/rationality_split_071.html"/>
+      <content src="Text/chapter072.xhtml"/>
     </navPoint>
     <navPoint id="u09fc3cff-d57a-452a-839c-5dcde2282918" playOrder="73">
       <navLabel>
         <text>Chapter 73. SA, The Sacred and the Mundane, Pt 8</text>
       </navLabel>
-      <content src="Text/rationality_split_072.html"/>
+      <content src="Text/chapter073.xhtml"/>
     </navPoint>
     <navPoint id="u4c19bd0f-d218-44d2-a2ff-f59be6bc247a" playOrder="74">
       <navLabel>
         <text>Chapter 74. SA, Escalation of Conflicts, Pt 9</text>
       </navLabel>
-      <content src="Text/rationality_split_073.html"/>
+      <content src="Text/chapter074.xhtml"/>
     </navPoint>
     <navPoint id="u137cda78-978b-4051-a77b-c4a0573dbe57" playOrder="75">
       <navLabel>
         <text>Chapter 75. Self Actualization Final, Responsibility</text>
       </navLabel>
-      <content src="Text/rationality_split_074.html"/>
+      <content src="Text/chapter075.xhtml"/>
     </navPoint>
     <navPoint id="ua4a31252-8922-4f9d-9e0f-03ea01ecc242" playOrder="76">
       <navLabel>
         <text>Chapter 76. Interlude with the Confessor: Sunk Costs</text>
       </navLabel>
-      <content src="Text/rationality_split_075.html"/>
+      <content src="Text/chapter076.xhtml"/>
     </navPoint>
     <navPoint id="uf543f6e0-73fb-496a-afcb-4c4bede62a3a" playOrder="77">
       <navLabel>
         <text>Chapter 77. SA, Aftermaths: Surface Appearances</text>
       </navLabel>
-      <content src="Text/rationality_split_076.html"/>
+      <content src="Text/chapter077.xhtml"/>
     </navPoint>
     <navPoint id="u9b48a8d1-b15a-4920-b786-590c4fa474a7" playOrder="78">
       <navLabel>
         <text>Chapter 78. Taboo Tradeoffs Prelude: Cheating</text>
       </navLabel>
-      <content src="Text/rationality_split_077.html"/>
+      <content src="Text/chapter078.xhtml"/>
     </navPoint>
     <navPoint id="ubc9bbca8-a9b3-4c94-be46-2b584c05a91b" playOrder="79">
       <navLabel>
         <text>Chapter 79. Taboo Tradeoffs, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_078.html"/>
+      <content src="Text/chapter079.xhtml"/>
     </navPoint>
     <navPoint id="ua3739aa5-d234-4f9d-9447-cf127f45ef7d" playOrder="80">
       <navLabel>
         <text>Chapter 80. Taboo Tradeoffs, Pt 2, The Horns Effect</text>
       </navLabel>
-      <content src="Text/rationality_split_079.html"/>
+      <content src="Text/chapter080.xhtml"/>
     </navPoint>
     <navPoint id="ub0bfb8df-14d3-4a95-8cc6-e2c1f4aca6e3" playOrder="81">
       <navLabel>
         <text>Chapter 81. Taboo Tradeoffs, Pt 3</text>
       </navLabel>
-      <content src="Text/rationality_split_080.html"/>
+      <content src="Text/chapter081.xhtml"/>
     </navPoint>
     <navPoint id="u2b8bfdca-bc7e-434e-bffd-f668f8e2401e" playOrder="82">
       <navLabel>
         <text>Chapter 82. Taboo Tradeoffs, Final</text>
       </navLabel>
-      <content src="Text/rationality_split_081.html"/>
+      <content src="Text/chapter082.xhtml"/>
     </navPoint>
     <navPoint id="uf3776a52-c13f-4710-9e1a-7e3c12629e4d" playOrder="83">
       <navLabel>
         <text>Chapter 83. Taboo Tradeoffs, Aftermath 1</text>
       </navLabel>
-      <content src="Text/rationality_split_082.html"/>
+      <content src="Text/chapter083.xhtml"/>
     </navPoint>
     <navPoint id="ufcba627e-548f-4500-859b-b4595f062343" playOrder="84">
       <navLabel>
         <text>Chapter 84. Taboo Tradeoffs, Aftermath 2</text>
       </navLabel>
-      <content src="Text/rationality_split_083.html"/>
+      <content src="Text/chapter084.xhtml"/>
     </navPoint>
     <navPoint id="u6325d3fb-9d16-4306-af06-5d9322cecb3d" playOrder="85">
       <navLabel>
         <text>Chapter 85. Taboo Tradeoffs, Aftermath 3, Distance</text>
       </navLabel>
-      <content src="Text/rationality_split_084.html"/>
+      <content src="Text/chapter085.xhtml"/>
     </navPoint>
     <navPoint id="u576fa5ce-bcef-4fe8-bf11-7978a093d162" playOrder="86">
       <navLabel>
         <text>Chapter 86. Multiple Hypothesis Testing</text>
       </navLabel>
-      <content src="Text/rationality_split_085.html"/>
+      <content src="Text/chapter086.xhtml"/>
     </navPoint>
     <navPoint id="u06e9061d-7372-43aa-8a8d-b00fb6a1509e" playOrder="87">
       <navLabel>
         <text>Chapter 87. Hedonic Awareness</text>
       </navLabel>
-      <content src="Text/rationality_split_086.html"/>
+      <content src="Text/chapter087.xhtml"/>
     </navPoint>
     <navPoint id="u1ef8d025-3723-4811-aa30-43dffbd057d8" playOrder="88">
       <navLabel>
         <text>Chapter 88. Time Pressure, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_087.html"/>
+      <content src="Text/chapter088.xhtml"/>
     </navPoint>
     <navPoint id="u7436d1ea-9a50-4a75-a59a-718a5756cecd" playOrder="89">
       <navLabel>
         <text>Chapter 89. Time Pressure, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_088.html"/>
+      <content src="Text/chapter089.xhtml"/>
     </navPoint>
     <navPoint id="uf8c3c66d-fc48-4a23-b02e-8f6f7e84a405" playOrder="90">
       <navLabel>
         <text>Chapter 90. Roles, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_089.html"/>
+      <content src="Text/chapter090.xhtml"/>
     </navPoint>
     <navPoint id="u16cb651a-0b97-4bb9-9bec-65a042708beb" playOrder="91">
       <navLabel>
         <text>Chapter 91. Roles, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_090.html"/>
+      <content src="Text/chapter091.xhtml"/>
     </navPoint>
     <navPoint id="u14387f81-ccdd-4b89-94ac-81e2d1b89407" playOrder="92">
       <navLabel>
         <text>Chapter 92. Roles, Pt 3</text>
       </navLabel>
-      <content src="Text/rationality_split_091.html"/>
+      <content src="Text/chapter092.xhtml"/>
     </navPoint>
     <navPoint id="udb7787c8-b99c-463f-8e37-06adc01f0d0c" playOrder="93">
       <navLabel>
         <text>Chapter 93. Roles, Pt 4</text>
       </navLabel>
-      <content src="Text/rationality_split_092.html"/>
+      <content src="Text/chapter093.xhtml"/>
     </navPoint>
     <navPoint id="u54c52888-e5de-4cd7-a03a-88066a60b111" playOrder="94">
       <navLabel>
         <text>Chapter 94. Roles, Pt 5</text>
       </navLabel>
-      <content src="Text/rationality_split_093.html"/>
+      <content src="Text/chapter094.xhtml"/>
     </navPoint>
     <navPoint id="u56e9e195-de6c-41e5-90d1-0de323bb535d" playOrder="95">
       <navLabel>
         <text>Chapter 95. Roles, Pt 6</text>
       </navLabel>
-      <content src="Text/rationality_split_094.html"/>
+      <content src="Text/chapter095.xhtml"/>
     </navPoint>
     <navPoint id="u7db9d7b7-681e-4c00-b83d-1e479ebf154f" playOrder="96">
       <navLabel>
         <text>Chapter 96. Roles, Pt 7</text>
       </navLabel>
-      <content src="Text/rationality_split_095.html"/>
+      <content src="Text/chapter096.xhtml"/>
     </navPoint>
     <navPoint id="ud8155286-c61e-4bcf-8eba-803358477f58" playOrder="97">
       <navLabel>
         <text>Chapter 97. Roles, Pt 8</text>
       </navLabel>
-      <content src="Text/rationality_split_096.html"/>
+      <content src="Text/chapter097.xhtml"/>
     </navPoint>
     <navPoint id="u05f638d8-b016-4bf3-b245-8e495e8b30c7" playOrder="98">
       <navLabel>
         <text>Chapter 98. Roles, Final</text>
       </navLabel>
-      <content src="Text/rationality_split_097.html"/>
+      <content src="Text/chapter098.xhtml"/>
     </navPoint>
     <navPoint id="ud08b7cc7-c6af-47a0-aa44-e5b85cae2b4a" playOrder="99">
       <navLabel>
         <text>Chapter 99. Roles, Aftermath</text>
       </navLabel>
-      <content src="Text/rationality_split_098.html"/>
+      <content src="Text/chapter099.xhtml"/>
     </navPoint>
     <navPoint id="u8b9bcae7-e040-4090-8e4c-ceb30521a190" playOrder="100">
       <navLabel>
         <text>Chapter 100. Precautionary Measures, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_099.html"/>
+      <content src="Text/chapter100.xhtml"/>
     </navPoint>
     <navPoint id="u84fd1143-d74c-4cc4-9369-62f01f31037b" playOrder="101">
       <navLabel>
         <text>Chapter 101. Precautionary Measures, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_100.html"/>
+      <content src="Text/chapter101.xhtml"/>
     </navPoint>
     <navPoint id="u3f3af1d0-2592-4a5c-808b-0d05b94ac32b" playOrder="102">
       <navLabel>
         <text>Chapter 102. Caring</text>
       </navLabel>
-      <content src="Text/rationality_split_101.html"/>
+      <content src="Text/chapter102.xhtml"/>
     </navPoint>
     <navPoint id="ub1cf1557-10f5-4a62-8bcc-e3ca042016d4" playOrder="103">
       <navLabel>
         <text>Chapter 103. Tests</text>
       </navLabel>
-      <content src="Text/rationality_split_102.html"/>
+      <content src="Text/chapter103.xhtml"/>
     </navPoint>
     <navPoint id="u8989ae68-308d-447c-9f75-11ec39e93a69" playOrder="104">
       <navLabel>
         <text>Chapter 104. The Truth, Pt 1, Riddles and Answers</text>
       </navLabel>
-      <content src="Text/rationality_split_103.html"/>
+      <content src="Text/chapter104.xhtml"/>
     </navPoint>
     <navPoint id="u61ff07f4-971a-44a2-9887-47ff2aa31c83" playOrder="105">
       <navLabel>
         <text>Chapter 105. The Truth, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_104.html"/>
+      <content src="Text/chapter105.xhtml"/>
     </navPoint>
     <navPoint id="u14afa595-47dd-4d5e-9200-f3a98e862337" playOrder="106">
       <navLabel>
         <text>Chapter 106. The Truth, Pt 3</text>
       </navLabel>
-      <content src="Text/rationality_split_105.html"/>
+      <content src="Text/chapter106.xhtml"/>
     </navPoint>
     <navPoint id="u6d201d28-be5d-4a8e-be41-5f2b61b89c7d" playOrder="107">
       <navLabel>
         <text>Chapter 107. The Truth, Pt 4</text>
       </navLabel>
-      <content src="Text/rationality_split_106.html"/>
+      <content src="Text/chapter107.xhtml"/>
     </navPoint>
     <navPoint id="u1cc4eb06-956d-435b-9d25-2c29dc44bdb5" playOrder="108">
       <navLabel>
         <text>Chapter 108. The Truth, Pt 5, Answers and Riddles</text>
       </navLabel>
-      <content src="Text/rationality_split_107.html"/>
+      <content src="Text/chapter108.xhtml"/>
     </navPoint>
     <navPoint id="u5c97ac72-0101-45f7-818d-5de8fcb0d37a" playOrder="109">
       <navLabel>
         <text>Chapter 109. Reflections</text>
       </navLabel>
-      <content src="Text/rationality_split_108.html"/>
+      <content src="Text/chapter109.xhtml"/>
     </navPoint>
     <navPoint id="u4ec4861c-4f7b-4033-a787-462f2759c2ca" playOrder="110">
       <navLabel>
         <text>Chapter 110. Reflections, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_109.html"/>
+      <content src="Text/chapter110.xhtml"/>
     </navPoint>
     <navPoint id="u5f43ba08-f6d6-44e7-8482-ade32ad14641" playOrder="111">
       <navLabel>
         <text>Chapter 111. Failure, Pt 1</text>
       </navLabel>
-      <content src="Text/rationality_split_110.html"/>
+      <content src="Text/chapter111.xhtml"/>
     </navPoint>
     <navPoint id="u87837b62-5afe-41cd-91ac-dce8a254b424" playOrder="112">
       <navLabel>
         <text>Chapter 112. Failure, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_111.html"/>
+      <content src="Text/chapter112.xhtml"/>
     </navPoint>
     <navPoint id="u7d6f4320-e094-40ae-857b-704d728ecea5" playOrder="113">
       <navLabel>
         <text>Chapter 113. Final Exam</text>
       </navLabel>
-      <content src="Text/rationality_split_112.html"/>
+      <content src="Text/chapter113.xhtml"/>
     </navPoint>
     <navPoint id="u4c64fb5a-58f0-439b-bc99-1a0bce83c7cb" playOrder="114">
       <navLabel>
         <text>Chapter 114. Shut Up and Do The Impossible</text>
       </navLabel>
-      <content src="Text/rationality_split_113.html"/>
+      <content src="Text/chapter114.xhtml"/>
     </navPoint>
     <navPoint id="u42d836ac-a8b5-4748-8c6a-7d56d972764c" playOrder="115">
       <navLabel>
         <text>Chapter 115. Shut Up and Do The Impossible, Pt 2</text>
       </navLabel>
-      <content src="Text/rationality_split_114.html"/>
+      <content src="Text/chapter115.xhtml"/>
     </navPoint>
     <navPoint id="uf85dce4c-95e7-464c-8080-4a192426fd80" playOrder="116">
       <navLabel>
         <text>Chapter 116. Aftermath, Something to Protect, Pt 0</text>
       </navLabel>
-      <content src="Text/rationality_split_115.html"/>
+      <content src="Text/chapter116.xhtml"/>
     </navPoint>
     <navPoint id="u248f607a-4396-421e-8bab-f9bdcbae8a42" playOrder="117">
       <navLabel>
         <text>Chapter 117. Something to Protect: Minerva McGonagall</text>
       </navLabel>
-      <content src="Text/rationality_split_116.html"/>
+      <content src="Text/chapter117.xhtml"/>
     </navPoint>
     <navPoint id="ubef5d302-4179-4196-b74f-5b6be1b2f2c4" playOrder="118">
       <navLabel>
         <text>Chapter 118. Something to Protect: Professor Quirrell</text>
       </navLabel>
-      <content src="Text/rationality_split_117.html"/>
+      <content src="Text/chapter118.xhtml"/>
     </navPoint>
     <navPoint id="u330feea5-0345-425a-a78e-0e3c7e6d4de7" playOrder="119">
       <navLabel>
         <text>Chapter 119. Something to Protect: Albus Dumbledore</text>
       </navLabel>
-      <content src="Text/rationality_split_118.html"/>
+      <content src="Text/chapter119.xhtml"/>
     </navPoint>
     <navPoint id="u83b605c8-fff8-4ed1-bcbb-3dc574f13e6e" playOrder="120">
       <navLabel>
         <text>Chapter 120. Something to Protect: Draco Malfoy</text>
       </navLabel>
-      <content src="Text/rationality_split_119.html"/>
+      <content src="Text/chapter120.xhtml"/>
     </navPoint>
     <navPoint id="u5980f702-270b-4938-b294-1692af6548e3" playOrder="121">
       <navLabel>
         <text>Chapter 121. Something to Protect: Severus Snape</text>
       </navLabel>
-      <content src="Text/rationality_split_120.html"/>
+      <content src="Text/chapter121.xhtml"/>
     </navPoint>
     <navPoint id="u4a45993b-4199-494f-a74b-4dd1cf8e0a0a" playOrder="122">
       <navLabel>
         <text>Chapter 122. Something to Protect: Hermione Granger</text>
       </navLabel>
-      <content src="Text/rationality_split_121.html"/>
+      <content src="Text/chapter122.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
