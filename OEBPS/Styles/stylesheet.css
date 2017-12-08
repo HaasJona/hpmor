@@ -1,6 +1,8 @@
 p{text-align:justify;margin:0;}
 p+p{text-indent:1em;}
 p+hr+p{text-indent:1em;}
+em{font-style: italic}
+em em{font-style: oblique; text-transform: capitalize}
 .calibre {
     display: block;
     font-size: 1em;
