@@ -4,9 +4,13 @@ p+hr+p{text-indent:1em;}
 em{font-style: italic}
 em em{text-transform: uppercase}
 .parsel{font-stretch: condensed}
-.hand{font-style: italic}
-.print{font-variant: small-caps}
+.hand{font-style: italic; margin: .5em 2em}
+.hand p{text-indent: 0; margin: .5em 0}
+.print{font-variant: small-caps;  margin: .5em 2em; text-align:center}
+.print p{text-indent: 0; margin: .5em 0; text-align:center}
 .shout{text-transform: uppercase}
+.left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;}
+.right{display:inline-block;  width: calc(50% - 1em); text-indent: 0; text-align:left;}
 blockquote{margin: 0;}
 .calibre {
     display: block;
@@ -42,9 +46,7 @@ blockquote{margin: 0;}
     display: block
     }
 .calibre7 {
-    display: block;
     text-align: center;
-    margin: 1em 0
     }
 .calibre8 {
     text-decoration: underline
