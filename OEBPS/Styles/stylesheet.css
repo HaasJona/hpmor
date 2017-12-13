@@ -49,7 +49,8 @@ blockquote{margin: 0;}
     text-align: center;
     }
 .calibre8 {
-    text-decoration: underline
+    text-decoration: underline;
+    text-transform: uppercase;
     }
 .chapter {
     display: block;
