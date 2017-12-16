@@ -1,8 +1,9 @@
 p{text-align:justify;margin:0;}
 p+p{text-indent:1em;}
-p+hr+p{text-indent:1em;}
-em{font-style: italic}
+p+hx+p{text-indent:1em;}
+em, .thought{font-style: italic}
 em em{text-transform: uppercase}
+.thought em{font-style: normal;}
 .parsel{font-stretch: condensed}
 .hand{font-style: italic; margin: .5em 2em}
 .hand p{text-indent: 0; margin: .5em 0}
@@ -12,6 +13,10 @@ em em{text-transform: uppercase}
 .left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;}
 .right{display:inline-block;  width: calc(50% - 1em); text-indent: 0; text-align:left;}
 blockquote{margin: 0;}
+
+hr {border:none;background:none;height:1em;margin:1.5em 0;text-align:center;color:inherit}
+hr::before{content:"⁂"}
+
 .calibre {
     display: block;
     font-size: 1em;
