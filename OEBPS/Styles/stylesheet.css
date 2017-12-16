@@ -14,8 +14,7 @@ em em{text-transform: uppercase}
 .right{display:inline-block;  width: calc(50% - 1em); text-indent: 0; text-align:left;}
 blockquote{margin: 0;}
 
-hr {border:none;background:none;height:1em;margin:1.5em 0;text-align:center;color:inherit}
-hr::before{content:"⁂"}
+hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inherit}
 
 .calibre {
     display: block;
