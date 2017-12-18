@@ -138,6 +138,7 @@
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item id="chapter000.xhtml" href="Text/chapter000.xhtml" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="chapter000.xhtml"/>
@@ -263,6 +264,7 @@
     <itemref idref="chapter120.xhtml"/>
     <itemref idref="chapter121.xhtml"/>
     <itemref idref="chapter122.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/chapter000.xhtml"/>
