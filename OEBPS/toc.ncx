@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
-   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
-
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
   <head>
-    <meta name="dtb:uid" content="01fcf157-c724-4f3a-9acc-22dd286f69f9"/>
-    <meta name="dtb:depth" content="1"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta content="01fcf157-c724-4f3a-9acc-22dd286f69f9" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
     <text>Harry Potter and the Methods of Rationality</text>
@@ -17,733 +15,733 @@
       <navLabel>
         <text>A Day of Very Low Probability</text>
       </navLabel>
-      <content src="Text/chapter001.xhtml"/>
+      <content src="Text/chapter-001.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
         <text>Everything I Believe Is False</text>
       </navLabel>
-      <content src="Text/chapter002.xhtml"/>
+      <content src="Text/chapter-002.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>Comparing Reality To Its Alternatives</text>
       </navLabel>
-      <content src="Text/chapter003.xhtml"/>
+      <content src="Text/chapter-003.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
         <text>The Efficient Market Hypothesis</text>
       </navLabel>
-      <content src="Text/chapter004.xhtml"/>
+      <content src="Text/chapter-004.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
         <text>The Fundamental Attribution Error</text>
       </navLabel>
-      <content src="Text/chapter005.xhtml"/>
+      <content src="Text/chapter-005.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
         <text>The Planning Fallacy</text>
       </navLabel>
-      <content src="Text/chapter006.xhtml"/>
+      <content src="Text/chapter-006.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
         <text>Reciprocation</text>
       </navLabel>
-      <content src="Text/chapter007.xhtml"/>
+      <content src="Text/chapter-007.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
         <text>Positive Bias</text>
       </navLabel>
-      <content src="Text/chapter008.xhtml"/>
+      <content src="Text/chapter-008.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
-        <text>Title Redacted, Part I</text>
+        <text>Self Awareness</text>
       </navLabel>
-      <content src="Text/chapter009.xhtml"/>
+      <content src="Text/chapter-009.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
-        <text>Self Awareness, Part II</text>
+        <text>Impulse Control</text>
       </navLabel>
-      <content src="Text/chapter010.xhtml"/>
+      <content src="Text/chapter-010.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-11" playOrder="11">
       <navLabel>
-        <text>Omake Files 1, 2, 3</text>
+        <text>Asking the Wrong Questions</text>
       </navLabel>
-      <content src="Text/chapter011.xhtml"/>
+      <content src="Text/chapter-011.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-12" playOrder="12">
       <navLabel>
-        <text>Impulse Control</text>
+        <text>The Unknown and the Unknowable</text>
       </navLabel>
-      <content src="Text/chapter012.xhtml"/>
+      <content src="Text/chapter-012.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-13" playOrder="13">
       <navLabel>
-        <text>Asking the Wrong Questions</text>
+        <text>Conscientiousness</text>
       </navLabel>
-      <content src="Text/chapter013.xhtml"/>
+      <content src="Text/chapter-013.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-14" playOrder="14">
       <navLabel>
-        <text>The Unknown and the Unknowable</text>
+        <text>Lateral Thinking</text>
       </navLabel>
-      <content src="Text/chapter014.xhtml"/>
+      <content src="Text/chapter-014.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-15" playOrder="15">
       <navLabel>
-        <text>Conscientiousness</text>
+        <text>Locating the Hypothesis</text>
       </navLabel>
-      <content src="Text/chapter015.xhtml"/>
+      <content src="Text/chapter-015.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-16" playOrder="16">
       <navLabel>
-        <text>Lateral Thinking</text>
+        <text>Dominance Hierarchies</text>
       </navLabel>
-      <content src="Text/chapter016.xhtml"/>
+      <content src="Text/chapter-016.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-17" playOrder="17">
       <navLabel>
-        <text>Locating the Hypothesis</text>
+        <text>Delayed Gratification</text>
       </navLabel>
-      <content src="Text/chapter017.xhtml"/>
+      <content src="Text/chapter-017.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-18" playOrder="18">
       <navLabel>
-        <text>Dominance Hierarchies</text>
+        <text>Bayes's Theorem</text>
       </navLabel>
-      <content src="Text/chapter018.xhtml"/>
+      <content src="Text/chapter-018.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-19" playOrder="19">
       <navLabel>
-        <text>Delayed Gratification</text>
+        <text>Rationalization</text>
       </navLabel>
-      <content src="Text/chapter019.xhtml"/>
+      <content src="Text/chapter-019.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-20" playOrder="20">
       <navLabel>
-        <text>Bayes's Theorem</text>
+        <text>The Scientific Method</text>
       </navLabel>
-      <content src="Text/chapter020.xhtml"/>
+      <content src="Text/chapter-020.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-21" playOrder="21">
       <navLabel>
-        <text>Rationalization</text>
+        <text>Belief in Belief</text>
       </navLabel>
-      <content src="Text/chapter021.xhtml"/>
+      <content src="Text/chapter-021.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-22" playOrder="22">
       <navLabel>
-        <text>The Scientific Method</text>
+        <text>Machiavellian Intelligence Hypothesis</text>
       </navLabel>
-      <content src="Text/chapter022.xhtml"/>
+      <content src="Text/chapter-022.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-23" playOrder="23">
       <navLabel>
-        <text>Belief in Belief</text>
+        <text>Hold Off on Proposing Solutions</text>
       </navLabel>
-      <content src="Text/chapter023.xhtml"/>
+      <content src="Text/chapter-023.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-24" playOrder="24">
       <navLabel>
-        <text>Machiavellian Intelligence Hypothesis</text>
+        <text>Noticing Confusion</text>
       </navLabel>
-      <content src="Text/chapter024.xhtml"/>
+      <content src="Text/chapter-024.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-25" playOrder="25">
       <navLabel>
-        <text>Hold Off on Proposing Solutions</text>
+        <text>Empathy</text>
       </navLabel>
-      <content src="Text/chapter025.xhtml"/>
+      <content src="Text/chapter-025.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-26" playOrder="26">
       <navLabel>
-        <text>Noticing Confusion</text>
+        <text>Reductionism</text>
       </navLabel>
-      <content src="Text/chapter026.xhtml"/>
+      <content src="Text/chapter-026.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-27" playOrder="27">
       <navLabel>
-        <text>Empathy</text>
+        <text>Egocentric Bias</text>
       </navLabel>
-      <content src="Text/chapter027.xhtml"/>
+      <content src="Text/chapter-027.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-28" playOrder="28">
       <navLabel>
-        <text>Reductionism</text>
+        <text>Working in Groups, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter028.xhtml"/>
+      <content src="Text/chapter-028.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-29" playOrder="29">
       <navLabel>
-        <text>Egocentric Bias</text>
+        <text>Working in Groups, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter029.xhtml"/>
+      <content src="Text/chapter-029.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-30" playOrder="30">
       <navLabel>
-        <text>Working in Groups, Pt 1</text>
+        <text>Interlude: Personal Financial Management</text>
       </navLabel>
-      <content src="Text/chapter030.xhtml"/>
+      <content src="Text/chapter-030.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-31" playOrder="31">
       <navLabel>
-        <text>Working in Groups, Pt 2</text>
+        <text>Coordination Problems, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter031.xhtml"/>
+      <content src="Text/chapter-031.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-32" playOrder="32">
       <navLabel>
-        <text>Interlude: Personal Financial Management</text>
+        <text>Coordination Problems, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter032.xhtml"/>
+      <content src="Text/chapter-032.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-33" playOrder="33">
       <navLabel>
-        <text>Coordination Problems, Pt 1</text>
+        <text>Coordination Problems, Pt 3</text>
       </navLabel>
-      <content src="Text/chapter033.xhtml"/>
+      <content src="Text/chapter-033.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-34" playOrder="34">
       <navLabel>
-        <text>Coordination Problems, Pt 2</text>
+        <text>Status Differentials</text>
       </navLabel>
-      <content src="Text/chapter034.xhtml"/>
+      <content src="Text/chapter-034.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-35" playOrder="35">
       <navLabel>
-        <text>Coordination Problems, Pt 3</text>
+        <text>Interlude: Crossing the Boundary</text>
       </navLabel>
-      <content src="Text/chapter035.xhtml"/>
+      <content src="Text/chapter-035.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-36" playOrder="36">
       <navLabel>
-        <text>Status Differentials</text>
+        <text>The Cardinal Sin</text>
       </navLabel>
-      <content src="Text/chapter036.xhtml"/>
+      <content src="Text/chapter-036.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-37" playOrder="37">
       <navLabel>
-        <text>Interlude: Crossing the Boundary</text>
+        <text>Pretending to be Wise, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter037.xhtml"/>
+      <content src="Text/chapter-037.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-38" playOrder="38">
       <navLabel>
-        <text>The Cardinal Sin</text>
+        <text>Pretending to be Wise, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter038.xhtml"/>
+      <content src="Text/chapter-038.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-39" playOrder="39">
       <navLabel>
-        <text>Pretending to be Wise, Pt 1</text>
+        <text>Frontal Override</text>
       </navLabel>
-      <content src="Text/chapter039.xhtml"/>
+      <content src="Text/chapter-039.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-40" playOrder="40">
       <navLabel>
-        <text>Pretending to be Wise, Pt 2</text>
+        <text>Courage</text>
       </navLabel>
-      <content src="Text/chapter040.xhtml"/>
+      <content src="Text/chapter-040.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-41" playOrder="41">
       <navLabel>
-        <text>Frontal Override</text>
+        <text>Humanism, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter041.xhtml"/>
+      <content src="Text/chapter-041.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-42" playOrder="42">
       <navLabel>
-        <text>Courage</text>
+        <text>Humanism, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter042.xhtml"/>
+      <content src="Text/chapter-042.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-43" playOrder="43">
       <navLabel>
-        <text>Humanism, Pt 1</text>
+        <text>Humanism, Pt 3</text>
       </navLabel>
-      <content src="Text/chapter043.xhtml"/>
+      <content src="Text/chapter-043.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-44" playOrder="44">
       <navLabel>
-        <text>Humanism, Pt 2</text>
+        <text>Humanism, Pt 4</text>
       </navLabel>
-      <content src="Text/chapter044.xhtml"/>
+      <content src="Text/chapter-044.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-45" playOrder="45">
       <navLabel>
-        <text>Humanism, Pt 3</text>
+        <text>Personhood Theory</text>
       </navLabel>
-      <content src="Text/chapter045.xhtml"/>
+      <content src="Text/chapter-045.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-46" playOrder="46">
       <navLabel>
-        <text>Humanism, Pt 4</text>
+        <text>Utilitarian Priorities</text>
       </navLabel>
-      <content src="Text/chapter046.xhtml"/>
+      <content src="Text/chapter-046.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-47" playOrder="47">
       <navLabel>
-        <text>Personhood Theory</text>
+        <text>Prior Information</text>
       </navLabel>
-      <content src="Text/chapter047.xhtml"/>
+      <content src="Text/chapter-047.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-48" playOrder="48">
       <navLabel>
-        <text>Utilitarian Priorities</text>
+        <text>Self Centeredness</text>
       </navLabel>
-      <content src="Text/chapter048.xhtml"/>
+      <content src="Text/chapter-048.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-49" playOrder="49">
       <navLabel>
-        <text>Prior Information</text>
+        <text>Title Redacted, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter049.xhtml"/>
+      <content src="Text/chapter-049.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-50" playOrder="50">
       <navLabel>
-        <text>Self Centeredness</text>
+        <text>The Stanford Prison Experiment, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter050.xhtml"/>
+      <content src="Text/chapter-050.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-51" playOrder="51">
       <navLabel>
-        <text>Title Redacted, Pt 1</text>
+        <text>The Stanford Prison Experiment, Pt 3</text>
       </navLabel>
-      <content src="Text/chapter051.xhtml"/>
+      <content src="Text/chapter-051.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-52" playOrder="52">
       <navLabel>
-        <text>The Stanford Prison Experiment, Pt 2</text>
+        <text>The Stanford Prison Experiment, Pt 4</text>
       </navLabel>
-      <content src="Text/chapter052.xhtml"/>
+      <content src="Text/chapter-052.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-53" playOrder="53">
       <navLabel>
-        <text>The Stanford Prison Experiment, Pt 3</text>
+        <text>The Stanford Prison Experiment, Pt 5</text>
       </navLabel>
-      <content src="Text/chapter053.xhtml"/>
+      <content src="Text/chapter-053.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-54" playOrder="54">
       <navLabel>
-        <text>The Stanford Prison Experiment, Pt 4</text>
+        <text>TSPE, Constrained Optimization, Pt 6</text>
       </navLabel>
-      <content src="Text/chapter054.xhtml"/>
+      <content src="Text/chapter-054.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-55" playOrder="55">
       <navLabel>
-        <text>The Stanford Prison Experiment, Pt 5</text>
+        <text>TSPE, Constrained Cognition, Pt 7</text>
       </navLabel>
-      <content src="Text/chapter055.xhtml"/>
+      <content src="Text/chapter-055.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-56" playOrder="56">
       <navLabel>
-        <text>TSPE, Constrained Optimization, Pt 6</text>
+        <text>TSPE, Constrained Cognition, Pt 8</text>
       </navLabel>
-      <content src="Text/chapter056.xhtml"/>
+      <content src="Text/chapter-056.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-57" playOrder="57">
       <navLabel>
-        <text>TSPE, Constrained Cognition, Pt 7</text>
+        <text>TSPE, Curiosity, Pt 9</text>
       </navLabel>
-      <content src="Text/chapter057.xhtml"/>
+      <content src="Text/chapter-057.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-58" playOrder="58">
       <navLabel>
-        <text>TSPE, Constrained Cognition, Pt 8</text>
+        <text>The Stanford Prison Experiment, Pt 10</text>
       </navLabel>
-      <content src="Text/chapter058.xhtml"/>
+      <content src="Text/chapter-058.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-59" playOrder="59">
       <navLabel>
-        <text>TSPE, Curiosity, Pt 9</text>
+        <text>TSPE, Secrecy and Openness, Pt 11</text>
       </navLabel>
-      <content src="Text/chapter059.xhtml"/>
+      <content src="Text/chapter-059.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-60" playOrder="60">
       <navLabel>
-        <text>The Stanford Prison Experiment, Pt 10</text>
+        <text>The Stanford Prison Experiment, Final</text>
       </navLabel>
-      <content src="Text/chapter060.xhtml"/>
+      <content src="Text/chapter-060.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-61" playOrder="61">
       <navLabel>
-        <text>TSPE, Secrecy and Openness, Pt 11</text>
+        <text>TSPE, Aftermaths</text>
       </navLabel>
-      <content src="Text/chapter061.xhtml"/>
+      <content src="Text/chapter-061.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-62" playOrder="62">
       <navLabel>
-        <text>The Stanford Prison Experiment, Final</text>
+        <text>Omake Files 4, Alternate Parallels</text>
       </navLabel>
-      <content src="Text/chapter062.xhtml"/>
+      <content src="Text/chapter-117.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-63" playOrder="63">
       <navLabel>
-        <text>TSPE, Aftermaths</text>
+        <text>Contagious Lies</text>
       </navLabel>
-      <content src="Text/chapter063.xhtml"/>
+      <content src="Text/chapter-062.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-64" playOrder="64">
       <navLabel>
-        <text>Omake Files 4, Alternate Parallels</text>
+        <text>Self Actualization, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter064.xhtml"/>
+      <content src="Text/chapter-063.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-65" playOrder="65">
       <navLabel>
-        <text>Contagious Lies</text>
+        <text>Self Actualization, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter065.xhtml"/>
+      <content src="Text/chapter-064.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-66" playOrder="66">
       <navLabel>
-        <text>Self Actualization, Pt 1</text>
+        <text>Self Actualization, Pt 3</text>
       </navLabel>
-      <content src="Text/chapter066.xhtml"/>
+      <content src="Text/chapter-065.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-67" playOrder="67">
       <navLabel>
-        <text>Self Actualization, Pt 2</text>
+        <text>Self Actualization, Pt 4</text>
       </navLabel>
-      <content src="Text/chapter067.xhtml"/>
+      <content src="Text/chapter-066.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-68" playOrder="68">
       <navLabel>
-        <text>Self Actualization, Pt 3</text>
+        <text>Self Actualization, Pt 5</text>
       </navLabel>
-      <content src="Text/chapter068.xhtml"/>
+      <content src="Text/chapter-067.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-69" playOrder="69">
       <navLabel>
-        <text>Self Actualization, Pt 4</text>
+        <text>Self Actualization, Pt 6</text>
       </navLabel>
-      <content src="Text/chapter069.xhtml"/>
+      <content src="Text/chapter-068.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-70" playOrder="70">
       <navLabel>
-        <text>Self Actualization, Pt 5</text>
+        <text>SA, Plausible Deniability, Pt 7</text>
       </navLabel>
-      <content src="Text/chapter070.xhtml"/>
+      <content src="Text/chapter-069.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-71" playOrder="71">
       <navLabel>
-        <text>Self Actualization, Pt 6</text>
+        <text>SA, The Sacred and the Mundane, Pt 8</text>
       </navLabel>
-      <content src="Text/chapter071.xhtml"/>
+      <content src="Text/chapter-070.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-72" playOrder="72">
       <navLabel>
-        <text>SA, Plausible Deniability, Pt 7</text>
+        <text>SA, Escalation of Conflicts, Pt 9</text>
       </navLabel>
-      <content src="Text/chapter072.xhtml"/>
+      <content src="Text/chapter-071.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-73" playOrder="73">
       <navLabel>
-        <text>SA, The Sacred and the Mundane, Pt 8</text>
+        <text>Self Actualization Final, Responsibility</text>
       </navLabel>
-      <content src="Text/chapter073.xhtml"/>
+      <content src="Text/chapter-072.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-74" playOrder="74">
       <navLabel>
-        <text>SA, Escalation of Conflicts, Pt 9</text>
+        <text>Interlude with the Confessor: Sunk Costs</text>
       </navLabel>
-      <content src="Text/chapter074.xhtml"/>
+      <content src="Text/chapter-073.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-75" playOrder="75">
       <navLabel>
-        <text>Self Actualization Final, Responsibility</text>
+        <text>SA, Aftermaths: Surface Appearances</text>
       </navLabel>
-      <content src="Text/chapter075.xhtml"/>
+      <content src="Text/chapter-074.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-76" playOrder="76">
       <navLabel>
-        <text>Interlude with the Confessor: Sunk Costs</text>
+        <text>Taboo Tradeoffs Prelude: Cheating</text>
       </navLabel>
-      <content src="Text/chapter076.xhtml"/>
+      <content src="Text/chapter-075.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-77" playOrder="77">
       <navLabel>
-        <text>SA, Aftermaths: Surface Appearances</text>
+        <text>Taboo Tradeoffs, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter077.xhtml"/>
+      <content src="Text/chapter-076.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-78" playOrder="78">
       <navLabel>
-        <text>Taboo Tradeoffs Prelude: Cheating</text>
+        <text>Taboo Tradeoffs, Pt 2, The Horns Effect</text>
       </navLabel>
-      <content src="Text/chapter078.xhtml"/>
+      <content src="Text/chapter-077.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-79" playOrder="79">
       <navLabel>
-        <text>Taboo Tradeoffs, Pt 1</text>
+        <text>Taboo Tradeoffs, Pt 3</text>
       </navLabel>
-      <content src="Text/chapter079.xhtml"/>
+      <content src="Text/chapter-078.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-80" playOrder="80">
       <navLabel>
-        <text>Taboo Tradeoffs, Pt 2, The Horns Effect</text>
+        <text>Taboo Tradeoffs, Final</text>
       </navLabel>
-      <content src="Text/chapter080.xhtml"/>
+      <content src="Text/chapter-079.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-81" playOrder="81">
       <navLabel>
-        <text>Taboo Tradeoffs, Pt 3</text>
+        <text>Taboo Tradeoffs, Aftermath 1</text>
       </navLabel>
-      <content src="Text/chapter081.xhtml"/>
+      <content src="Text/chapter-080.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-82" playOrder="82">
       <navLabel>
-        <text>Taboo Tradeoffs, Final</text>
+        <text>Taboo Tradeoffs, Aftermath 2</text>
       </navLabel>
-      <content src="Text/chapter082.xhtml"/>
+      <content src="Text/chapter-081.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-83" playOrder="83">
       <navLabel>
-        <text>Taboo Tradeoffs, Aftermath 1</text>
+        <text>Taboo Tradeoffs, Aftermath 3, Distance</text>
       </navLabel>
-      <content src="Text/chapter083.xhtml"/>
+      <content src="Text/chapter-082.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-84" playOrder="84">
       <navLabel>
-        <text>Taboo Tradeoffs, Aftermath 2</text>
+        <text>Multiple Hypothesis Testing</text>
       </navLabel>
-      <content src="Text/chapter084.xhtml"/>
+      <content src="Text/chapter-083.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-85" playOrder="85">
       <navLabel>
-        <text>Taboo Tradeoffs, Aftermath 3, Distance</text>
+        <text>Hedonic Awareness</text>
       </navLabel>
-      <content src="Text/chapter085.xhtml"/>
+      <content src="Text/chapter-084.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-86" playOrder="86">
       <navLabel>
-        <text>Multiple Hypothesis Testing</text>
+        <text>Time Pressure, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter086.xhtml"/>
+      <content src="Text/chapter-085.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-87" playOrder="87">
       <navLabel>
-        <text>Hedonic Awareness</text>
+        <text>Time Pressure, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter087.xhtml"/>
+      <content src="Text/chapter-086.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-88" playOrder="88">
       <navLabel>
-        <text>Time Pressure, Pt 1</text>
+        <text>Roles, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter088.xhtml"/>
+      <content src="Text/chapter-087.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-89" playOrder="89">
       <navLabel>
-        <text>Time Pressure, Pt 2</text>
+        <text>Roles, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter089.xhtml"/>
+      <content src="Text/chapter-088.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-90" playOrder="90">
       <navLabel>
-        <text>Roles, Pt 1</text>
+        <text>Roles, Pt 3</text>
       </navLabel>
-      <content src="Text/chapter090.xhtml"/>
+      <content src="Text/chapter-089.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-91" playOrder="91">
       <navLabel>
-        <text>Roles, Pt 2</text>
+        <text>Roles, Pt 4</text>
       </navLabel>
-      <content src="Text/chapter091.xhtml"/>
+      <content src="Text/chapter-090.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-92" playOrder="92">
       <navLabel>
-        <text>Roles, Pt 3</text>
+        <text>Roles, Pt 5</text>
       </navLabel>
-      <content src="Text/chapter092.xhtml"/>
+      <content src="Text/chapter-091.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-93" playOrder="93">
       <navLabel>
-        <text>Roles, Pt 4</text>
+        <text>Roles, Pt 6</text>
       </navLabel>
-      <content src="Text/chapter093.xhtml"/>
+      <content src="Text/chapter-092.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-94" playOrder="94">
       <navLabel>
-        <text>Roles, Pt 5</text>
+        <text>Roles, Pt 7</text>
       </navLabel>
-      <content src="Text/chapter094.xhtml"/>
+      <content src="Text/chapter-093.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-95" playOrder="95">
       <navLabel>
-        <text>Roles, Pt 6</text>
+        <text>Roles, Pt 8</text>
       </navLabel>
-      <content src="Text/chapter095.xhtml"/>
+      <content src="Text/chapter-094.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-96" playOrder="96">
       <navLabel>
-        <text>Roles, Pt 7</text>
+        <text>Roles, Final</text>
       </navLabel>
-      <content src="Text/chapter096.xhtml"/>
+      <content src="Text/chapter-095.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-97" playOrder="97">
       <navLabel>
-        <text>Roles, Pt 8</text>
+        <text>Roles, Aftermath</text>
       </navLabel>
-      <content src="Text/chapter097.xhtml"/>
+      <content src="Text/chapter-099.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-98" playOrder="98">
       <navLabel>
-        <text>Roles, Final</text>
+        <text>Precautionary Measures, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter098.xhtml"/>
+      <content src="Text/chapter-096.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-99" playOrder="99">
       <navLabel>
-        <text>Roles, Aftermath</text>
+        <text>Precautionary Measures, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter099.xhtml"/>
+      <content src="Text/chapter-097.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-100" playOrder="100">
       <navLabel>
-        <text>Precautionary Measures, Pt 1</text>
+        <text>Caring</text>
       </navLabel>
-      <content src="Text/chapter100.xhtml"/>
+      <content src="Text/chapter-098.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-101" playOrder="101">
       <navLabel>
-        <text>Precautionary Measures, Pt 2</text>
+        <text>Tests</text>
       </navLabel>
-      <content src="Text/chapter101.xhtml"/>
+      <content src="Text/chapter-099.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-102" playOrder="102">
       <navLabel>
-        <text>Caring</text>
+        <text>The Truth, Pt 1, Riddles and Answers</text>
       </navLabel>
-      <content src="Text/chapter102.xhtml"/>
+      <content src="Text/chapter-100.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-103" playOrder="103">
       <navLabel>
-        <text>Tests</text>
+        <text>The Truth, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter103.xhtml"/>
+      <content src="Text/chapter-101.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-104" playOrder="104">
       <navLabel>
-        <text>The Truth, Pt 1, Riddles and Answers</text>
+        <text>The Truth, Pt 3</text>
       </navLabel>
-      <content src="Text/chapter104.xhtml"/>
+      <content src="Text/chapter-106.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-105" playOrder="105">
       <navLabel>
-        <text>The Truth, Pt 2</text>
+        <text>The Truth, Pt 4</text>
       </navLabel>
-      <content src="Text/chapter105.xhtml"/>
+      <content src="Text/chapter-107.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-106" playOrder="106">
       <navLabel>
-        <text>The Truth, Pt 3</text>
+        <text>The Truth, Pt 5, Answers and Riddles</text>
       </navLabel>
-      <content src="Text/chapter106.xhtml"/>
+      <content src="Text/chapter-102.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-107" playOrder="107">
       <navLabel>
-        <text>The Truth, Pt 4</text>
+        <text>Reflections</text>
       </navLabel>
-      <content src="Text/chapter107.xhtml"/>
+      <content src="Text/chapter-103.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-108" playOrder="108">
       <navLabel>
-        <text>The Truth, Pt 5, Answers and Riddles</text>
+        <text>Reflections, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter108.xhtml"/>
+      <content src="Text/chapter-110.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-109" playOrder="109">
       <navLabel>
-        <text>Reflections</text>
+        <text>Failure, Pt 1</text>
       </navLabel>
-      <content src="Text/chapter109.xhtml"/>
+      <content src="Text/chapter-104.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-110" playOrder="110">
       <navLabel>
-        <text>Reflections, Pt 2</text>
+        <text>Failure, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter110.xhtml"/>
+      <content src="Text/chapter-112.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-111" playOrder="111">
       <navLabel>
-        <text>Failure, Pt 1</text>
+        <text>Final Exam</text>
       </navLabel>
-      <content src="Text/chapter111.xhtml"/>
+      <content src="Text/chapter-105.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-112" playOrder="112">
       <navLabel>
-        <text>Failure, Pt 2</text>
+        <text>Shut Up and Do The Impossible</text>
       </navLabel>
-      <content src="Text/chapter112.xhtml"/>
+      <content src="Text/chapter-106.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-113" playOrder="113">
       <navLabel>
-        <text>Final Exam</text>
+        <text>Shut Up and Do The Impossible, Pt 2</text>
       </navLabel>
-      <content src="Text/chapter113.xhtml"/>
+      <content src="Text/chapter-107.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-114" playOrder="114">
       <navLabel>
-        <text>Shut Up and Do The Impossible</text>
+        <text>Aftermath, Something to Protect, Pt 0</text>
       </navLabel>
-      <content src="Text/chapter114.xhtml"/>
+      <content src="Text/chapter-108.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-115" playOrder="115">
       <navLabel>
-        <text>Shut Up and Do The Impossible, Pt 2</text>
+        <text>Something to Protect: Minerva McGonagall</text>
       </navLabel>
-      <content src="Text/chapter115.xhtml"/>
+      <content src="Text/chapter-109.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-116" playOrder="116">
       <navLabel>
-        <text>Aftermath, Something to Protect, Pt 0</text>
+        <text>Something to Protect: Professor Quirrell</text>
       </navLabel>
-      <content src="Text/chapter116.xhtml"/>
+      <content src="Text/chapter-110.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-117" playOrder="117">
       <navLabel>
-        <text>Something to Protect: Minerva McGonagall</text>
+        <text>Something to Protect: Albus Dumbledore</text>
       </navLabel>
-      <content src="Text/chapter117.xhtml"/>
+      <content src="Text/chapter-111.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-118" playOrder="118">
       <navLabel>
-        <text>Something to Protect: Professor Quirrell</text>
+        <text>Something to Protect: Draco Malfoy</text>
       </navLabel>
-      <content src="Text/chapter118.xhtml"/>
+      <content src="Text/chapter-112.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-119" playOrder="119">
       <navLabel>
-        <text>Something to Protect: Albus Dumbledore</text>
+        <text>Something to Protect: Severus Snape</text>
       </navLabel>
-      <content src="Text/chapter119.xhtml"/>
+      <content src="Text/chapter-113.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-120" playOrder="120">
       <navLabel>
-        <text>Something to Protect: Draco Malfoy</text>
+        <text>Something to Protect: Hermione Granger</text>
       </navLabel>
-      <content src="Text/chapter120.xhtml"/>
+      <content src="Text/chapter-114.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-121" playOrder="121">
       <navLabel>
-        <text>Something to Protect: Severus Snape</text>
+        <text>Afterword</text>
       </navLabel>
-      <content src="Text/chapter121.xhtml"/>
+      <content src="Text/chapter-115.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-122" playOrder="122">
       <navLabel>
-        <text>Something to Protect: Hermione Granger</text>
+        <text>Omake Files 1, 2, 3</text>
       </navLabel>
-      <content src="Text/chapter122.xhtml"/>
+      <content src="Text/chapter-116.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
