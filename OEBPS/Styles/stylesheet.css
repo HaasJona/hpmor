@@ -1,18 +1,18 @@
-p{text-align:justify;margin:0;}
-p+p{text-indent:1em;}
-p+hx+p{text-indent:1em;}
+p{text-align:justify;margin:0;text-indent:1em;}
+p:first-child{text-indent:0}
 em, .thought{font-style: italic}
 em em{text-transform: uppercase}
 .thought em{font-style: normal;}
 .parsel{font-stretch: condensed}
-.hand{font-style: italic; margin: .5em 2em}
-.hand p{text-indent: 0; margin: .5em 0}
-.print{font-variant: small-caps;  margin: .5em 2em; text-align:center}
-.print p{text-indent: 0; margin: .5em 0; text-align:center}
+.hand{font-style: italic}
+.hand p{text-indent: 0}
+.print{text-align:center}
+.print p{text-indent: 0;text-align:center}
 .shout{text-transform: uppercase}
 .left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;}
 .right{display:inline-block;  width: calc(50% - 1em); text-indent: 0; text-align:left;}
-blockquote{margin: 0;}
+blockquote{margin: 1em 2em}
+blockquote p{margin: .5em 0}
 
 hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inherit}
 
@@ -56,10 +56,12 @@ hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inhe
     text-decoration: underline;
     text-transform: uppercase;
     }
-.chapter {
+h1 {
     display: block;
     font-size: 2em;
-    font-weight: bold;
+    font-weight: lighter;
     line-height: 1.2;
-    margin: 0.67em 0
+    font-style: italic;
+    margin: 0.67em 0;
+    text-align:center
     }
