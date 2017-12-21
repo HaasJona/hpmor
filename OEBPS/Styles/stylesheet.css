@@ -5,14 +5,17 @@ em em{text-transform: uppercase}
 .thought em{font-style: normal;}
 .parsel{font-stretch: condensed}
 .hand{font-style: italic}
-.hand p{text-indent: 0}
 .print{text-align:center}
-.print p{text-indent: 0;text-align:center}
+.print p{text-align:center}
 .shout{text-transform: uppercase}
 .left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;}
 .right{display:inline-block;  width: calc(50% - 1em); text-indent: 0; text-align:left;}
 blockquote{margin: 1em 2em}
-blockquote p{margin: .5em 0}
+blockquote p{margin: .5em 0;text-indent: 0}
+
+blockquote.memory{margin:0;font-style: italic}
+blockquote.memory p{text-align:justify;margin:0;text-indent:1em;}
+blockquote.memory p em{font-style: normal;}
 
 hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inherit}
 
