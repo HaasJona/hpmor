@@ -19,6 +19,8 @@ blockquote.memory p em{font-style: normal;}
 
 hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inherit}
 
+.ps:after{content:"s"}
+
 .calibre {
     display: block;
     font-size: 1em;

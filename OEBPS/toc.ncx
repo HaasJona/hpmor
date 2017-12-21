@@ -639,65 +639,59 @@
     </navPoint>
     <navPoint id="navPoint-105" playOrder="105">
       <navLabel>
-        <text>Shut Up and Do The Impossible, Pt 2</text>
-      </navLabel>
-      <content src="Text/chapter-107.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-106" playOrder="106">
-      <navLabel>
         <text>Aftermath, Something to Protect, Pt 0</text>
       </navLabel>
       <content src="Text/chapter-108.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-107" playOrder="107">
+    <navPoint id="navPoint-106" playOrder="106">
       <navLabel>
         <text>Something to Protect: Minerva McGonagall</text>
       </navLabel>
       <content src="Text/chapter-109.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-108" playOrder="108">
+    <navPoint id="navPoint-107" playOrder="107">
       <navLabel>
         <text>Something to Protect: Professor Quirrell</text>
       </navLabel>
       <content src="Text/chapter-110.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-109" playOrder="109">
+    <navPoint id="navPoint-108" playOrder="108">
       <navLabel>
         <text>Something to Protect: Albus Dumbledore</text>
       </navLabel>
       <content src="Text/chapter-111.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-110" playOrder="110">
+    <navPoint id="navPoint-109" playOrder="109">
       <navLabel>
         <text>Something to Protect: Draco Malfoy</text>
       </navLabel>
       <content src="Text/chapter-112.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-111" playOrder="111">
+    <navPoint id="navPoint-110" playOrder="110">
       <navLabel>
         <text>Something to Protect: Severus Snape</text>
       </navLabel>
       <content src="Text/chapter-113.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-112" playOrder="112">
+    <navPoint id="navPoint-111" playOrder="111">
       <navLabel>
         <text>Something to Protect: Hermione Granger</text>
       </navLabel>
       <content src="Text/chapter-114.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-113" playOrder="113">
+    <navPoint id="navPoint-112" playOrder="112">
       <navLabel>
         <text>Afterword</text>
       </navLabel>
       <content src="Text/chapter-115.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-114" playOrder="114">
+    <navPoint id="navPoint-113" playOrder="113">
       <navLabel>
         <text>Omake Files 1, 2, 3</text>
       </navLabel>
       <content src="Text/chapter-116.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-115" playOrder="115">
+    <navPoint id="navPoint-114" playOrder="114">
       <navLabel>
         <text>Omake Files 4, Alternate Parallels</text>
       </navLabel>

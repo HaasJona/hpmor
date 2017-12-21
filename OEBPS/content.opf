@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="uuid_id" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
     <dc:language>en</dc:language>
     <dc:creator opf:file-as="Unknown" opf:role="aut">Eliezer Yudkowsky</dc:creator>
-    <meta content="2015-03-14T16:07:36.480212+00:00" name="calibre:timestamp" />
+    <meta name="calibre:timestamp" content="2015-03-14T16:07:36.480212+00:00" />
     <dc:title>Harry Potter and the Methods of Rationality</dc:title>
     <meta name="cover" content="cover" />
     <dc:identifier id="uuid_id" opf:scheme="uuid">01fcf157-c724-4f3a-9acc-22dd286f69f9</dc:identifier>
-    <meta content="0.9.8" name="Sigil version" />
-    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2017-12-21</dc:date>
+    <meta name="Sigil version" content="0.9.8" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2017-12-21</dc:date>
   </metadata>
   <manifest>
     <item id="cover" href="Images/cover.jpg" media-type="image/jpeg"/>
@@ -119,7 +119,6 @@
     <item id="chapter-104.xhtml" href="Text/chapter-104.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter-105.xhtml" href="Text/chapter-105.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter-106.xhtml" href="Text/chapter-106.xhtml" media-type="application/xhtml+xml"/>
-    <item id="chapter-107.xhtml" href="Text/chapter-107.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter-108.xhtml" href="Text/chapter-108.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter-109.xhtml" href="Text/chapter-109.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter-110.xhtml" href="Text/chapter-110.xhtml" media-type="application/xhtml+xml"/>
@@ -238,7 +237,6 @@
     <itemref idref="chapter-104.xhtml"/>
     <itemref idref="chapter-105.xhtml"/>
     <itemref idref="chapter-106.xhtml"/>
-    <itemref idref="chapter-107.xhtml"/>
     <itemref idref="chapter-108.xhtml"/>
     <itemref idref="chapter-109.xhtml"/>
     <itemref idref="chapter-110.xhtml"/>
