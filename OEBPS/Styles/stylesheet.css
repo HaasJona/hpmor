@@ -6,7 +6,7 @@ em em{text-transform: uppercase}
 .parsel{font-stretch: condensed}
 .hand{font-style: italic}
 .hand p{text-indent: 0}
-.print{text-align:center}
+.print{text-align:center;font-variant: small-caps}
 .print p{text-indent: 0;text-align:center}
 .shout{text-transform: uppercase}
 .left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;}
