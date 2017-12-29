@@ -8,8 +8,8 @@ em em{text-transform: uppercase}
 .print{text-align:center;font-variant: small-caps}
 .print p{text-align:center}
 .shout{text-transform: uppercase}
-.left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;}
-.right{display:inline-block;  width: calc(50% - 1em); text-indent: 0; text-align:left;}
+.left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;vertical-align: top}
+.right{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:left;vertical-align: top}
 blockquote{margin: 1em 2em}
 blockquote p{margin: .5em 0;text-indent: 0}
 
