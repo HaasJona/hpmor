@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="uuid_id" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:language>en</dc:language>
-    <dc:creator opf:file-as="Unknown" opf:role="aut">Eliezer Yudkowsky</dc:creator>
-    <meta name="calibre:timestamp" content="2015-03-14T16:07:36.480212+00:00" />
+    <dc:creator opf:role="aut" opf:file-as="Unknown">Eliezer Yudkowsky</dc:creator>
+    <meta content="2015-03-14T16:07:36.480212+00:00" name="calibre:timestamp" />
     <dc:title>Harry Potter and the Methods of Rationality</dc:title>
     <meta name="cover" content="cover" />
     <dc:identifier id="uuid_id" opf:scheme="uuid">01fcf157-c724-4f3a-9acc-22dd286f69f9</dc:identifier>
-    <meta name="Sigil version" content="0.9.8" />
-    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2017-12-21</dc:date>
+    <meta content="0.9.9" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2018-03-19</dc:date>
   </metadata>
   <manifest>
     <item id="cover" href="Images/cover.jpg" media-type="image/jpeg"/>
@@ -130,6 +130,17 @@
     <item id="chapter-000.xhtml" href="Text/chapter-000.xhtml" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="chapter-115.xhtml" href="Text/chapter-115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="HennyPenny-Regular.ttf" href="Fonts/HennyPenny-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="Rochester-Regular.ttf" href="Fonts/Rochester-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="AlegreyaSC-BoldItalic.ttf" href="Fonts/AlegreyaSC-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="AlegreyaSC-Bold.ttf" href="Fonts/AlegreyaSC-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="AlegreyaSC-Italic.ttf" href="Fonts/AlegreyaSC-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="AlegreyaSC-Regular.ttf" href="Fonts/AlegreyaSC-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="OFL.txt" href="Misc/OFL.txt" media-type="text/plain"/>
+    <item id="Alegreya-BoldItalic.ttf" href="Fonts/Alegreya-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="Alegreya-Bold.ttf" href="Fonts/Alegreya-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="Alegreya-Italic.ttf" href="Fonts/Alegreya-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="Alegreya-Regular.ttf" href="Fonts/Alegreya-Regular.ttf" media-type="application/x-font-ttf"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="chapter-000.xhtml"/>

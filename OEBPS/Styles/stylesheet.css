@@ -1,11 +1,12 @@
+body{font-family:Alegreya}
 p{text-align:justify;margin:0;text-indent:1em;}
 p:first-child{text-indent:0}
 em, .thought{font-style: italic}
 em em{text-transform: uppercase}
 .thought em{font-style: normal;}
-.parsel{font-stretch: condensed}
-.hand{font-style: italic}
-.print{text-align:center;font-variant: small-caps}
+.parsel{voice-stress: moderate; voice-rate: fast}
+.hand{font-style: italic;font-family:Rochester,cursive;font-size:1.2rem;}
+.print{text-align:center;font-family:AlegreyaSC}
 .print p{text-align:center}
 .shout{text-transform: uppercase}
 .left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;vertical-align: top}
@@ -19,7 +20,7 @@ blockquote.memory p em{font-style: normal;}
 
 hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inherit}
 
-.ps:after{content:"s"}
+.ps:after{content:"s"; speak: none}
 
 .calibre {
     display: block;
@@ -66,7 +67,68 @@ h1 {
     font-size: 2em;
     font-weight: lighter;
     line-height: 1.2;
-    font-style: italic;
+    font-family: HennyPenny,cursive;
     margin: 0.67em 0;
     text-align:center
     }
+
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../Fonts/Alegreya-Regular.ttf");
+}
+@font-face {
+    font-family: 'Alegreya';
+    font-style: italic;
+    font-weight: normal;
+    src: url("../Fonts/Alegreya-Italic.ttf");
+}
+@font-face {
+    font-family: 'Alegreya';
+    font-style: normal;
+    font-weight: bold;
+    src: url("../Fonts/Alegreya-Bold.ttf");
+}
+@font-face {
+    font-family: 'Alegreya';
+    font-style: italic;
+    font-weight: bold;
+    src: url("../Fonts/Alegreya-BoldItalic.ttf");
+}
+@font-face {
+  font-family: 'AlegreyaSC';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../Fonts/AlegreyaSC-Regular.ttf");
+}
+@font-face {
+    font-family: 'AlegreyaSC';
+    font-style: italic;
+    font-weight: normal;
+    src: url("../Fonts/AlegreyaSC-Italic.ttf");
+}
+@font-face {
+    font-family: 'AlegreyaSC';
+    font-style: normal;
+    font-weight: bold;
+    src: url("../Fonts/AlegreyaSC-Bold.ttf");
+}
+@font-face {
+    font-family: 'AlegreyaSC';
+    font-style: italic;
+    font-weight: bold;
+    src: url("../Fonts/AlegreyaSC-BoldItalic.ttf");
+}
+@font-face {
+    font-family: 'HennyPenny';
+    font-style: normal;
+    font-weight: normal;
+    src: url("../Fonts/HennyPenny-Regular.ttf");
+}
+@font-face {
+    font-family: 'Rochester';
+    font-style: italic;
+    font-weight: normal;
+    src: url("../Fonts/Rochester-Regular.ttf");
+}
