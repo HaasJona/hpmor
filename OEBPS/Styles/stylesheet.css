@@ -1,20 +1,21 @@
-body{font-family:Alegreya}
+body{font-family:Cormorant,serif}
 p{text-align:justify;margin:0;text-indent:1em;}
 p:first-child{text-indent:0}
-em, .thought{font-style: italic}
+em{font-style: italic}
+.thought{font-family:CormorantUpright,serif;}
 em em{text-transform: uppercase}
-.thought em{font-style: normal;}
-.parsel{voice-stress: moderate; voice-rate: fast}
-.hand{font-style: italic;font-family:Rochester,cursive;font-size:1.2rem;}
-.print{text-align:center;font-family:AlegreyaSC}
+.parsel{voice-stress: moderate; voice-rate: fast;font-family:CormorantUpright,serif;}
+.hand{font-family:CormorantUpright,serif;}
+.print{text-align:center;font-family:CormorantSC,serif}
 .print p{text-align:center}
 .shout{text-transform: uppercase}
-.left{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:right;vertical-align: top}
-.right{display:inline-block; width: calc(50% - 1em); text-indent: 0; text-align:left;vertical-align: top}
-blockquote{margin: 1em 2em}
+blockquote{margin: 1em 2em;padding:1em;box-shadow: 0 0 .4em rgba(0, 0, 0, 0.3);}
 blockquote p{margin: .5em 0;text-indent: 0}
+table{margin:auto}
+td{text-align:left;padding:0 .5ex;}
+td:first-child{text-align:right}
 
-blockquote.memory{margin:0;font-style: italic}
+blockquote.memory{margin:0;font-style: italic;box-shadow:none}
 blockquote.memory p{text-align:justify;margin:0;text-indent:1em;}
 blockquote.memory p em{font-style: normal;}
 
@@ -28,20 +29,20 @@ hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inhe
     padding-left: 0;
     padding-right: 0;
     margin: 0 5pt
-    }
+}
 .calibre1 {
     display: block
-    }
+}
 .calibre2 {
     display: block;
     margin: 1em 0
-    }
+}
 .calibre3 {
     font-weight: bold
-    }
+}
 .calibre4 {
     font-style: italic
-    }
+}
 .calibre5 {
     color: gray;
     display: block;
@@ -51,17 +52,17 @@ hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inhe
     border-bottom: currentColor none 1px;
     border-left: currentColor none 1px;
     margin: 0.5em auto
-    }
+}
 .calibre6 {
     display: block
-    }
+}
 .calibre7 {
     text-align: center;
-    }
+}
 .calibre8 {
     text-decoration: underline;
     text-transform: uppercase;
-    }
+}
 h1 {
     display: block;
     font-size: 2em;
@@ -70,55 +71,43 @@ h1 {
     font-family: HennyPenny,cursive;
     margin: 0.67em 0;
     text-align:center
-    }
+}
 
 @font-face {
-  font-family: 'Alegreya';
-  font-style: normal;
-  font-weight: normal;
-  src: url("../Fonts/Alegreya-Regular.ttf");
+    font-family: 'Cormorant';
+    font-style: normal;
+    font-weight: normal;
+    src: url("../Fonts/Cormorant-Regular.ttf");
 }
 @font-face {
-    font-family: 'Alegreya';
+    font-family: 'Cormorant';
     font-style: italic;
     font-weight: normal;
-    src: url("../Fonts/Alegreya-Italic.ttf");
+    src: url("../Fonts/Cormorant-Italic.ttf");
 }
 @font-face {
-    font-family: 'Alegreya';
+    font-family: 'Cormorant';
     font-style: normal;
     font-weight: bold;
-    src: url("../Fonts/Alegreya-Bold.ttf");
+    src: url("../Fonts/Cormorant-Bold.ttf");
 }
 @font-face {
-    font-family: 'Alegreya';
+    font-family: 'Cormorant';
     font-style: italic;
     font-weight: bold;
-    src: url("../Fonts/Alegreya-BoldItalic.ttf");
+    src: url("../Fonts/Cormorant-BoldItalic.ttf");
 }
 @font-face {
-  font-family: 'AlegreyaSC';
-  font-style: normal;
-  font-weight: normal;
-  src: url("../Fonts/AlegreyaSC-Regular.ttf");
-}
-@font-face {
-    font-family: 'AlegreyaSC';
-    font-style: italic;
+    font-family: 'CormorantSC';
+    font-style: normal;
     font-weight: normal;
-    src: url("../Fonts/AlegreyaSC-Italic.ttf");
+    src: url("../Fonts/CormorantSC-Regular.ttf");
 }
 @font-face {
-    font-family: 'AlegreyaSC';
+    font-family: 'CormorantSC';
     font-style: normal;
     font-weight: bold;
-    src: url("../Fonts/AlegreyaSC-Bold.ttf");
-}
-@font-face {
-    font-family: 'AlegreyaSC';
-    font-style: italic;
-    font-weight: bold;
-    src: url("../Fonts/AlegreyaSC-BoldItalic.ttf");
+    src: url("../Fonts/CormorantSC-Bold.ttf");
 }
 @font-face {
     font-family: 'HennyPenny';
@@ -127,8 +116,26 @@ h1 {
     src: url("../Fonts/HennyPenny-Regular.ttf");
 }
 @font-face {
-    font-family: 'Rochester';
+    font-family: 'CormorantUpright';
     font-style: italic;
     font-weight: normal;
-    src: url("../Fonts/Rochester-Regular.ttf");
+    src: url("../Fonts/Cormorant-Italic.ttf");
+}
+@font-face {
+    font-family: 'CormorantUpright';
+    font-style: italic;
+    font-weight: bold;
+    src: url("../Fonts/Cormorant-BoldItalic.ttf");
+}
+@font-face {
+    font-family: 'CormorantUpright';
+    font-style: normal;
+    font-weight: normal;
+    src: url("../Fonts/CormorantUpright-Regular.ttf");
+}
+@font-face {
+    font-family: 'CormorantUpright';
+    font-style: normal;
+    font-weight: bold;
+    src: url("../Fonts/CormorantUpright-Bold.ttf");
 }
