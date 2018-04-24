@@ -15,13 +15,14 @@ table{margin:auto}
 td{text-align:left;padding:0 .5ex;}
 td:first-child{text-align:right}
 
-blockquote.memory{margin:0;font-style: italic;box-shadow:none}
+blockquote.memory{margin:0;font-family:CormorantUpright,serif;box-shadow:none}
 blockquote.memory p{text-align:justify;margin:0;text-indent:1em;}
-blockquote.memory p em{font-style: normal;}
 
 hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inherit}
 
 .ps:after{content:"s"; speak: none}
+
+.sgc-toc-level-1 a {text-decoration:inherit;color:inherit;display:block;padding:.5em;margin-bottom:.5em;border-bottom:1px solid black;border-right:1px solid black;border-radius:1em}
 
 .calibre {
     display: block;
