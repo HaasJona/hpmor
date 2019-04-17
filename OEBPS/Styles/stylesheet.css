@@ -1,24 +1,24 @@
-body{font-family:Cormorant,serif}
-p{text-align:justify;margin:0;text-indent:1em;}
+body{font-family:Garamond,serif;line-height:1.5em}
+p{text-align:justify;margin:0;text-indent:2em;}
 p:first-child{text-indent:0}
+i{font-style: italic}
+.thought{font-family:Garamond,serif;font-style: italic;}
 em{font-style: italic}
-.thought{font-family:CormorantUpright,serif;}
-em em{text-transform: uppercase}
-.parsel{voice-stress: moderate; voice-rate: fast;font-family:CormorantUpright,serif;}
-.hand{font-family:CormorantUpright,serif;}
-.print{text-align:center;font-family:CormorantSC,serif}
+.parsel{voice-stress: moderate; voice-rate: fast;font-family:Garamond,serif;}
+.hand{font-family:Garamond,serif;font-style: italic;}
+.print{text-align:center;font-family:Garamond,serif;font-style: italic;}
 .print p{text-align:center}
 .shout{text-transform: uppercase}
-blockquote{margin: 1em 2em;padding:1em;box-shadow: 0 0 .4em rgba(0, 0, 0, 0.3);}
+blockquote{margin: 0 2em;padding:1em}
 blockquote p{margin: .5em 0;text-indent: 0}
 table{margin:auto}
 td{text-align:left;padding:0 .5ex;}
 td:first-child{text-align:right}
 
-blockquote.memory{margin:0;font-family:CormorantUpright,serif;box-shadow:none}
+blockquote.memory{margin:0;font-family:Garamond,serif;font-style: italic;}
 blockquote.memory p{text-align:justify;margin:0;text-indent:1em;}
 
-hr {border:none;background:none;height:1em;margin:0;text-align:center;color:inherit}
+hr {border:none;height:1px;width:15em;margin:2em auto;text-align:center;color:inherit; background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));}
 
 .ps:after{content:"s"; speak: none}
 
@@ -75,68 +75,20 @@ h1 {
 }
 
 @font-face {
-    font-family: 'Cormorant';
+    font-family: 'Garamond';
     font-style: normal;
     font-weight: normal;
-    src: url("../Fonts/Cormorant-Regular.ttf");
+    src: url("../Fonts/EBGaramond-Regular.ttf");
 }
 @font-face {
-    font-family: 'Cormorant';
+    font-family: 'Garamond';
     font-style: italic;
     font-weight: normal;
-    src: url("../Fonts/Cormorant-Italic.ttf");
-}
-@font-face {
-    font-family: 'Cormorant';
-    font-style: normal;
-    font-weight: bold;
-    src: url("../Fonts/Cormorant-Bold.ttf");
-}
-@font-face {
-    font-family: 'Cormorant';
-    font-style: italic;
-    font-weight: bold;
-    src: url("../Fonts/Cormorant-BoldItalic.ttf");
-}
-@font-face {
-    font-family: 'CormorantSC';
-    font-style: normal;
-    font-weight: normal;
-    src: url("../Fonts/CormorantSC-Regular.ttf");
-}
-@font-face {
-    font-family: 'CormorantSC';
-    font-style: normal;
-    font-weight: bold;
-    src: url("../Fonts/CormorantSC-Bold.ttf");
+    src: url("../Fonts/EBGaramond-Italic.ttf");
 }
 @font-face {
     font-family: 'HennyPenny';
     font-style: normal;
     font-weight: normal;
     src: url("../Fonts/HennyPenny-Regular.ttf");
-}
-@font-face {
-    font-family: 'CormorantUpright';
-    font-style: italic;
-    font-weight: normal;
-    src: url("../Fonts/Cormorant-Italic.ttf");
-}
-@font-face {
-    font-family: 'CormorantUpright';
-    font-style: italic;
-    font-weight: bold;
-    src: url("../Fonts/Cormorant-BoldItalic.ttf");
-}
-@font-face {
-    font-family: 'CormorantUpright';
-    font-style: normal;
-    font-weight: normal;
-    src: url("../Fonts/CormorantUpright-Regular.ttf");
-}
-@font-face {
-    font-family: 'CormorantUpright';
-    font-style: normal;
-    font-weight: bold;
-    src: url("../Fonts/CormorantUpright-Bold.ttf");
 }
