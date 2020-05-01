@@ -463,233 +463,227 @@
     </navPoint>
     <navPoint id="navPoint-76" playOrder="76">
       <navLabel>
-        <text>Taboo Tradeoffs, Pt 1</text>
-      </navLabel>
-      <content src="Text/chapter-076.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-77" playOrder="77">
-      <navLabel>
         <text>The Horns Effect</text>
       </navLabel>
       <content src="Text/chapter-0077.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-78" playOrder="78">
+    <navPoint id="navPoint-77" playOrder="77">
       <navLabel>
         <text>Taboo Tradeoffs, Pt 3</text>
       </navLabel>
       <content src="Text/chapter-0078.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-79" playOrder="79">
+    <navPoint id="navPoint-78" playOrder="78">
       <navLabel>
         <text>Taboo Tradeoffs, Final</text>
       </navLabel>
       <content src="Text/chapter-0079.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-80" playOrder="80">
+    <navPoint id="navPoint-79" playOrder="79">
       <navLabel>
         <text>Taboo Tradeoffs, Aftermath 1</text>
       </navLabel>
       <content src="Text/chapter-0080.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-81" playOrder="81">
+    <navPoint id="navPoint-80" playOrder="80">
       <navLabel>
         <text>Taboo Tradeoffs, Aftermath 2</text>
       </navLabel>
       <content src="Text/chapter-0081.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-82" playOrder="82">
+    <navPoint id="navPoint-81" playOrder="81">
       <navLabel>
         <text>Distance</text>
       </navLabel>
       <content src="Text/chapter-0082.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-83" playOrder="83">
+    <navPoint id="navPoint-82" playOrder="82">
       <navLabel>
         <text>Multiple Hypothesis Testing</text>
       </navLabel>
       <content src="Text/chapter-0083.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-84" playOrder="84">
+    <navPoint id="navPoint-83" playOrder="83">
       <navLabel>
         <text>Hedonic Awareness</text>
       </navLabel>
       <content src="Text/chapter-0084.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-85" playOrder="85">
+    <navPoint id="navPoint-84" playOrder="84">
       <navLabel>
         <text>Time Pressure</text>
       </navLabel>
       <content src="Text/chapter-0085.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-86" playOrder="86">
+    <navPoint id="navPoint-85" playOrder="85">
       <navLabel>
         <text>Roles</text>
       </navLabel>
       <content src="Text/chapter-0086.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-87" playOrder="87">
+    <navPoint id="navPoint-86" playOrder="86">
       <navLabel>
         <text>Ender’s Game</text>
       </navLabel>
       <content src="Text/chapter-0087.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-88" playOrder="88">
+    <navPoint id="navPoint-87" playOrder="87">
       <navLabel>
         <text>Darkness</text>
       </navLabel>
       <content src="Text/chapter-0088.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-89" playOrder="89">
+    <navPoint id="navPoint-88" playOrder="88">
       <navLabel>
         <text>Never Ever Forever</text>
       </navLabel>
       <content src="Text/chapter-0089.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-90" playOrder="90">
+    <navPoint id="navPoint-89" playOrder="89">
       <navLabel>
         <text>The Enemy Is Smart</text>
       </navLabel>
       <content src="Text/chapter-0090.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-91" playOrder="91">
+    <navPoint id="navPoint-90" playOrder="90">
       <navLabel>
         <text>Fission Energy</text>
       </navLabel>
       <content src="Text/chapter-0091.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-92" playOrder="92">
+    <navPoint id="navPoint-91" playOrder="91">
       <navLabel>
         <text>Godric’s Hollow</text>
       </navLabel>
       <content src="Text/chapter-0092.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-93" playOrder="93">
+    <navPoint id="navPoint-92" playOrder="92">
       <navLabel>
         <text>Contracts</text>
       </navLabel>
       <content src="Text/chapter-0093.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-94" playOrder="94">
+    <navPoint id="navPoint-93" playOrder="93">
       <navLabel>
         <text>Educational Decrees</text>
       </navLabel>
       <content src="Text/chapter-0094.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-95" playOrder="95">
+    <navPoint id="navPoint-94" playOrder="94">
       <navLabel>
         <text>Precautionary Measures</text>
       </navLabel>
       <content src="Text/chapter-0095.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-96" playOrder="96">
+    <navPoint id="navPoint-95" playOrder="95">
       <navLabel>
         <text>Caring</text>
       </navLabel>
       <content src="Text/chapter-0096.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-97" playOrder="97">
+    <navPoint id="navPoint-96" playOrder="96">
       <navLabel>
         <text>Tests</text>
       </navLabel>
       <content src="Text/chapter-0097.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-98" playOrder="98">
+    <navPoint id="navPoint-97" playOrder="97">
       <navLabel>
         <text>Riddles and Answers</text>
       </navLabel>
       <content src="Text/chapter-0098.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-99" playOrder="99">
+    <navPoint id="navPoint-98" playOrder="98">
       <navLabel>
         <text>The Truth</text>
       </navLabel>
       <content src="Text/chapter-0099.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-100" playOrder="100">
+    <navPoint id="navPoint-99" playOrder="99">
       <navLabel>
         <text>Answers and Riddles</text>
       </navLabel>
       <content src="Text/chapter-0100.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-101" playOrder="101">
+    <navPoint id="navPoint-100" playOrder="100">
       <navLabel>
         <text>Reflections</text>
       </navLabel>
       <content src="Text/chapter-0101.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-102" playOrder="102">
+    <navPoint id="navPoint-101" playOrder="101">
       <navLabel>
         <text>Failure</text>
       </navLabel>
       <content src="Text/chapter-0102.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-103" playOrder="103">
+    <navPoint id="navPoint-102" playOrder="102">
       <navLabel>
         <text>Final Exam</text>
       </navLabel>
       <content src="Text/chapter-0103.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-104" playOrder="104">
+    <navPoint id="navPoint-103" playOrder="103">
       <navLabel>
         <text>Shut Up and Do The Impossible</text>
       </navLabel>
       <content src="Text/chapter-0104.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-105" playOrder="105">
+    <navPoint id="navPoint-104" playOrder="104">
       <navLabel>
         <text>Aftermath, Something to Protect, Pt 0</text>
       </navLabel>
       <content src="Text/chapter-0105.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-106" playOrder="106">
+    <navPoint id="navPoint-105" playOrder="105">
       <navLabel>
         <text>Something to Protect: Minerva McGonagall</text>
       </navLabel>
       <content src="Text/chapter-0106.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-107" playOrder="107">
+    <navPoint id="navPoint-106" playOrder="106">
       <navLabel>
         <text>Something to Protect: Professor Quirrell</text>
       </navLabel>
       <content src="Text/chapter-0107.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-108" playOrder="108">
+    <navPoint id="navPoint-107" playOrder="107">
       <navLabel>
         <text>Something to Protect: Albus Dumbledore</text>
       </navLabel>
       <content src="Text/chapter-0108.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-109" playOrder="109">
+    <navPoint id="navPoint-108" playOrder="108">
       <navLabel>
         <text>Something to Protect: Draco Malfoy</text>
       </navLabel>
       <content src="Text/chapter-0109.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-110" playOrder="110">
+    <navPoint id="navPoint-109" playOrder="109">
       <navLabel>
         <text>Something to Protect: Severus Snape</text>
       </navLabel>
       <content src="Text/chapter-0110.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-111" playOrder="111">
+    <navPoint id="navPoint-110" playOrder="110">
       <navLabel>
         <text>Something to Protect: Hermione Granger</text>
       </navLabel>
       <content src="Text/chapter-0111.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-112" playOrder="112">
+    <navPoint id="navPoint-111" playOrder="111">
       <navLabel>
         <text>Afterword</text>
       </navLabel>
       <content src="Text/chapter-0112.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-113" playOrder="113">
+    <navPoint id="navPoint-112" playOrder="112">
       <navLabel>
         <text>Omake Files 1, 2, 3</text>
       </navLabel>
       <content src="Text/omake-0001.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-114" playOrder="114">
+    <navPoint id="navPoint-113" playOrder="113">
       <navLabel>
         <text>Omake Files 4, Alternate Parallels</text>
       </navLabel>

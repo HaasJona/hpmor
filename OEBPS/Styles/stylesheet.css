@@ -5,9 +5,10 @@ i{font-style: italic}
 .thought{font-family:Garamond,serif;font-style: italic;}
 em{font-style: italic}
 .parsel{voice-stress: moderate; voice-rate: fast;font-family:Garamond,serif;}
+.ps:after{content:"s"; speak: none}
+
 .hand{font-family:Garamond,serif;font-style: italic;}
 .print{text-align:center;font-family:Garamond,serif;font-style: italic;}
-.print p{text-align:center}
 .shout{text-transform: uppercase}
 blockquote{margin: 0 2em;padding:1em}
 blockquote p{margin: .5em 0;text-indent: 0}
@@ -15,49 +16,13 @@ table{margin:auto}
 td{text-align:left;padding:0 .5ex;}
 td:first-child{text-align:right}
 
+
 blockquote.memory{margin:0;font-family:Garamond,serif;font-style: italic;}
 blockquote.memory p{text-align:justify;margin:0;text-indent:1em;}
 
 hr {border:none;height:1px;width:15em;margin:2em auto;text-align:center;color:inherit; background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));}
 
-.ps:after{content:"s"; speak: none}
-
-.sgc-toc-level-1 a {text-decoration:inherit;color:inherit;display:block;padding:.5em;margin-bottom:.5em;border-bottom:1px solid black;border-right:1px solid black;border-radius:1em}
-
-.calibre {
-    display: block;
-    font-size: 1em;
-    padding-left: 0;
-    padding-right: 0;
-    margin: 0 5pt
-}
-.calibre1 {
-    display: block
-}
-.calibre2 {
-    display: block;
-    margin: 1em 0
-}
-.calibre3 {
-    font-weight: bold
-}
-.calibre4 {
-    font-style: italic
-}
-.calibre5 {
-    color: gray;
-    display: block;
-    height: 2px;
-    border-top: currentColor solid 1px;
-    border-right: currentColor none 1px;
-    border-bottom: currentColor none 1px;
-    border-left: currentColor none 1px;
-    margin: 0.5em auto
-}
-.calibre6 {
-    display: block
-}
-.calibre7 {
+.centered {
     text-align: center;
 }
 .calibre8 {
