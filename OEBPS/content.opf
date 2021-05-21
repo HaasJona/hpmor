@@ -8,7 +8,7 @@
     <meta name="cover" content="cover" />
     <dc:identifier opf:scheme="uuid" id="uuid_id">01fcf157-c724-4f3a-9acc-22dd286f69f9</dc:identifier>
     <meta content="1.2.1" name="Sigil version" />
-    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2020-04-27</dc:date>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2020-05-01</dc:date>
   </metadata>
   <manifest>
     <item id="cover" href="Images/cover.jpg" media-type="image/jpeg"/>

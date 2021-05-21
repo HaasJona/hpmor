@@ -16,6 +16,7 @@ table{margin:auto}
 td{text-align:left;padding:0 .5ex;}
 td:first-child{text-align:right}
 
+.strike {color: gray; font-size: .8em}
 
 blockquote.memory{margin:0;font-family:Garamond,serif;font-style: italic;}
 blockquote.memory p{text-align:justify;margin:0;text-indent:1em;}
