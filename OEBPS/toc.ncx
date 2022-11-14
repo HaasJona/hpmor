@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
- "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta content="01fcf157-c724-4f3a-9acc-22dd286f69f9" name="dtb:uid"/>
-    <meta content="2" name="dtb:depth"/>
-    <meta content="0" name="dtb:totalPageCount"/>
-    <meta content="0" name="dtb:maxPageNumber"/>
+    <meta name="dtb:uid" content="01fcf157-c724-4f3a-9acc-22dd286f69f9"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
   </head>
   <docTitle>
     <text>Harry Potter and the Methods of Rationality</text>
@@ -28,680 +30,1058 @@
         <text>Book 1: A Day of Very Low Probability</text>
       </navLabel>
       <content src="Text/book-1-ch-01.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Book 1 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-1-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Book 1 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-1-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Book 1 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-1-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Book 1 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-1-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Book 1 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-1-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Book 1 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-1-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Book 1 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-1-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Book 1 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-1-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Book 1 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-1-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Book 1 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-1-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Book 1 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-1-ch-12.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-4" playOrder="4">
-      <navLabel>
-        <text>Everything I Believe Is False</text>
-      </navLabel>
-      <content src="Text/book-1-ch-02.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
-      <navLabel>
-        <text>Comparing Reality To Its Alternatives</text>
-      </navLabel>
-      <content src="Text/book-1-ch-03.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-6" playOrder="6">
-      <navLabel>
-        <text>The Efficient Market Hypothesis</text>
-      </navLabel>
-      <content src="Text/book-1-ch-04.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-7" playOrder="7">
-      <navLabel>
-        <text>The Fundamental Attribution Error</text>
-      </navLabel>
-      <content src="Text/book-1-ch-05.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-8" playOrder="8">
-      <navLabel>
-        <text>The Planning Fallacy</text>
-      </navLabel>
-      <content src="Text/book-1-ch-06.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-9" playOrder="9">
-      <navLabel>
-        <text>Reciprocation</text>
-      </navLabel>
-      <content src="Text/book-1-ch-09.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-10" playOrder="10">
-      <navLabel>
-        <text>Positive Bias</text>
-      </navLabel>
-      <content src="Text/book-1-ch-11.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-11" playOrder="11">
-      <navLabel>
-        <text>Self Awareness</text>
-      </navLabel>
-      <content src="Text/book-1-ch-12.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-12" playOrder="12">
+    <navPoint id="navPoint-15" playOrder="15">
       <navLabel>
         <text>Book 2: Asking the Wrong Questions</text>
       </navLabel>
       <content src="Text/book-2-ch-01.xhtml"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Book 2 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-2-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Book 2 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-2-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Book 2 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-2-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Book 2 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-2-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Book 2 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-2-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Book 2 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-2-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Book 2 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-2-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Book 2 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-2-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Book 2 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-2-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Book 2 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-2-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Book 2 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-2-ch-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Book 2 – Chapter 13</text>
+        </navLabel>
+        <content src="Text/book-2-ch-13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Book 2 – Chapter 14</text>
+        </navLabel>
+        <content src="Text/book-2-ch-14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Book 2 – Chapter 15</text>
+        </navLabel>
+        <content src="Text/book-2-ch-15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Book 2 – Chapter 16</text>
+        </navLabel>
+        <content src="Text/book-2-ch-16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Book 2 – Chapter 17</text>
+        </navLabel>
+        <content src="Text/book-2-ch-17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Book 2 – Chapter 18</text>
+        </navLabel>
+        <content src="Text/book-2-ch-18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Book 2 – Chapter 19</text>
+        </navLabel>
+        <content src="Text/book-2-ch-19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Book 2 – Chapter 20</text>
+        </navLabel>
+        <content src="Text/book-2-ch-20.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-13" playOrder="13">
-      <navLabel>
-        <text>Impulse Control</text>
-      </navLabel>
-      <content src="Text/book-2-ch-02.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-14" playOrder="14">
-      <navLabel>
-        <text>Asking the Wrong Questions</text>
-      </navLabel>
-      <content src="Text/book-2-ch-03.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-15" playOrder="15">
-      <navLabel>
-        <text>The Unknown and the Unknowable</text>
-      </navLabel>
-      <content src="Text/book-2-ch-04.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-16" playOrder="16">
-      <navLabel>
-        <text>Conscientiousness</text>
-      </navLabel>
-      <content src="Text/book-2-ch-05.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-17" playOrder="17">
-      <navLabel>
-        <text>Lateral Thinking</text>
-      </navLabel>
-      <content src="Text/book-2-ch-06.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-18" playOrder="18">
-      <navLabel>
-        <text>Locating the Hypothesis</text>
-      </navLabel>
-      <content src="Text/book-2-ch-08.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-19" playOrder="19">
-      <navLabel>
-        <text>Dominance Hierarchies</text>
-      </navLabel>
-      <content src="Text/book-2-ch-12.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-20" playOrder="20">
-      <navLabel>
-        <text>Delayed Gratification</text>
-      </navLabel>
-      <content src="Text/book-2-ch-15.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-21" playOrder="21">
-      <navLabel>
-        <text>Bayes's Theorem</text>
-      </navLabel>
-      <content src="Text/book-2-ch-17.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-22" playOrder="22">
-      <navLabel>
-        <text>Rationalization</text>
-      </navLabel>
-      <content src="Text/book-2-ch-19.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-23" playOrder="23">
+    <navPoint id="navPoint-35" playOrder="35">
       <navLabel>
         <text>Book 3: Working in Groups</text>
       </navLabel>
       <content src="Text/book-3-ch-01.xhtml"/>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Book 3 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-3-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Book 3 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-3-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Book 3 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-3-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Book 3 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-3-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Book 3 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-3-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Book 3 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-3-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Book 3 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-3-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Book 3 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-3-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Book 3 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-3-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Book 3 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-3-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Book 3 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-3-ch-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Book 3 – Chapter 13</text>
+        </navLabel>
+        <content src="Text/book-3-ch-13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Book 3 – Chapter 14</text>
+        </navLabel>
+        <content src="Text/book-3-ch-14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Book 3 – Chapter 15</text>
+        </navLabel>
+        <content src="Text/book-3-ch-15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Book 3 – Chapter 16</text>
+        </navLabel>
+        <content src="Text/book-3-ch-16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Book 3 – Chapter 17</text>
+        </navLabel>
+        <content src="Text/book-3-ch-17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Book 3 – Chapter 18</text>
+        </navLabel>
+        <content src="Text/book-3-ch-18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Book 3 – Chapter 19</text>
+        </navLabel>
+        <content src="Text/book-3-ch-19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Book 3 – Chapter 20</text>
+        </navLabel>
+        <content src="Text/book-3-ch-20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Book 3 – Chapter 21</text>
+        </navLabel>
+        <content src="Text/book-3-ch-21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Book 3 – Chapter 22</text>
+        </navLabel>
+        <content src="Text/book-3-ch-22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Book 3 – Chapter 23</text>
+        </navLabel>
+        <content src="Text/book-3-ch-23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Book 3 – Chapter 24</text>
+        </navLabel>
+        <content src="Text/book-3-ch-24.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-24" playOrder="24">
-      <navLabel>
-        <text>Belief in Belief</text>
-      </navLabel>
-      <content src="Text/book-3-ch-04.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-25" playOrder="25">
-      <navLabel>
-        <text>Machiavellian Intelligence Hypothesis</text>
-      </navLabel>
-      <content src="Text/book-3-ch-06.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-26" playOrder="26">
-      <navLabel>
-        <text>Hold Off on Proposing Solutions</text>
-      </navLabel>
-      <content src="Text/book-3-ch-07.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-27" playOrder="27">
-      <navLabel>
-        <text>Noticing Confusion</text>
-      </navLabel>
-      <content src="Text/book-3-ch-08.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-28" playOrder="28">
-      <navLabel>
-        <text>Empathy</text>
-      </navLabel>
-      <content src="Text/book-3-ch-10.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-29" playOrder="29">
-      <navLabel>
-        <text>Reductionism</text>
-      </navLabel>
-      <content src="Text/book-3-ch-12.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-30" playOrder="30">
-      <navLabel>
-        <text>Egocentric Bias</text>
-      </navLabel>
-      <content src="Text/book-3-ch-14.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-31" playOrder="31">
-      <navLabel>
-        <text>Working in Groups, Pt 1</text>
-      </navLabel>
-      <content src="Text/book-3-ch-16.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-32" playOrder="32">
-      <navLabel>
-        <text>Working in Groups, Pt 2</text>
-      </navLabel>
-      <content src="Text/book-3-ch-18.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-33" playOrder="33">
-      <navLabel>
-        <text>Personal Financial Management</text>
-      </navLabel>
-      <content src="Text/book-3-ch-19.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-34" playOrder="34">
-      <navLabel>
-        <text>Coordination Problems, Pt 1</text>
-      </navLabel>
-      <content src="Text/book-3-ch-20.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-35" playOrder="35">
-      <navLabel>
-        <text>Coordination Problems, Pt 2</text>
-      </navLabel>
-      <content src="Text/book-3-ch-22.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-36" playOrder="36">
-      <navLabel>
-        <text>Coordination Problems, Pt 3</text>
-      </navLabel>
-      <content src="Text/book-3-ch-23.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-37" playOrder="37">
-      <navLabel>
-        <text>Status Differentials</text>
-      </navLabel>
-      <content src="Text/book-3-ch-24.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-38" playOrder="38">
+    <navPoint id="navPoint-59" playOrder="59">
       <navLabel>
         <text>Book 4: Crossing the Boundary</text>
       </navLabel>
       <content src="Text/book-4-ch-01.xhtml"/>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Book 4 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-4-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Book 4 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-4-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Book 4 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-4-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Book 4 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-4-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Book 4 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-4-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Book 4 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-4-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Book 4 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-4-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Book 4 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-4-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Book 4 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-4-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Book 4 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-4-ch-11.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-39" playOrder="39">
-      <navLabel>
-        <text>The Cardinal Sin</text>
-      </navLabel>
-      <content src="Text/book-4-ch-02.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-40" playOrder="40">
-      <navLabel>
-        <text>Pretending to be Wise, Pt 1</text>
-      </navLabel>
-      <content src="Text/book-4-ch-03.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-41" playOrder="41">
-      <navLabel>
-        <text>Pretending to be Wise, Pt 2</text>
-      </navLabel>
-      <content src="Text/book-4-ch-05.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-42" playOrder="42">
-      <navLabel>
-        <text>Frontal Override</text>
-      </navLabel>
-      <content src="Text/book-4-ch-06.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-43" playOrder="43">
-      <navLabel>
-        <text>Courage</text>
-      </navLabel>
-      <content src="Text/book-4-ch-07.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-44" playOrder="44">
-      <navLabel>
-        <text>Humanism, Pt 1</text>
-      </navLabel>
-      <content src="Text/book-4-ch-08.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-45" playOrder="45">
-      <navLabel>
-        <text>Humanism, Pt 2</text>
-      </navLabel>
-      <content src="Text/book-4-ch-10.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-46" playOrder="46">
-      <navLabel>
-        <text>Humanism, Pt 3</text>
-      </navLabel>
-      <content src="Text/book-4-ch-11.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-47" playOrder="47">
+    <navPoint id="navPoint-70" playOrder="70">
       <navLabel>
         <text>Book 5: Constrained Cognition</text>
       </navLabel>
       <content src="Text/book-5-ch-01.xhtml"/>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Book 5 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-5-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Book 5 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-5-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Book 5 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-5-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Book 5 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-5-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Book 5 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-5-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Book 5 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-5-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Book 5 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-5-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Book 5 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-5-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Book 5 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-5-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Book 5 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-5-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Book 5 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-5-ch-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Book 5 – Chapter 13</text>
+        </navLabel>
+        <content src="Text/book-5-ch-13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Book 5 – Chapter 14</text>
+        </navLabel>
+        <content src="Text/book-5-ch-14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Book 5 – Chapter 15</text>
+        </navLabel>
+        <content src="Text/book-5-ch-15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Book 5 – Chapter 16</text>
+        </navLabel>
+        <content src="Text/book-5-ch-16.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-48" playOrder="48">
-      <navLabel>
-        <text>Personhood Theory</text>
-      </navLabel>
-      <content src="Text/book-5-ch-02.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-49" playOrder="49">
-      <navLabel>
-        <text>Utilitarian Priorities</text>
-      </navLabel>
-      <content src="Text/book-5-ch-05.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-50" playOrder="50">
-      <navLabel>
-        <text>Prior Information</text>
-      </navLabel>
-      <content src="Text/book-5-ch-06.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-51" playOrder="51">
-      <navLabel>
-        <text>Self Centeredness</text>
-      </navLabel>
-      <content src="Text/book-5-ch-07.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-52" playOrder="52">
-      <navLabel>
-        <text>False Assumptions</text>
-      </navLabel>
-      <content src="Text/book-5-ch-08.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-53" playOrder="53">
-      <navLabel>
-        <text>The Stanford Prison Experiment, Pt 2</text>
-      </navLabel>
-      <content src="Text/book-5-ch-09.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-54" playOrder="54">
-      <navLabel>
-        <text>The Stanford Prison Experiment, Pt 3</text>
-      </navLabel>
-      <content src="Text/book-5-ch-10.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-55" playOrder="55">
-      <navLabel>
-        <text>The Stanford Prison Experiment, Pt 4</text>
-      </navLabel>
-      <content src="Text/book-5-ch-11.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-56" playOrder="56">
-      <navLabel>
-        <text>The Stanford Prison Experiment, Pt 5</text>
-      </navLabel>
-      <content src="Text/book-5-ch-12.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-57" playOrder="57">
-      <navLabel>
-        <text>Constrained Optimization</text>
-      </navLabel>
-      <content src="Text/book-5-ch-13.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-58" playOrder="58">
-      <navLabel>
-        <text>Constrained Cognition</text>
-      </navLabel>
-      <content src="Text/book-5-ch-14.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-59" playOrder="59">
-      <navLabel>
-        <text>Constrained Cognition, Part 2</text>
-      </navLabel>
-      <content src="Text/book-5-ch-15.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-60" playOrder="60">
-      <navLabel>
-        <text>Curiosity</text>
-      </navLabel>
-      <content src="Text/book-5-ch-16.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-61" playOrder="61">
+    <navPoint id="navPoint-86" playOrder="86">
       <navLabel>
         <text>Book 6: Self Actualization</text>
       </navLabel>
       <content src="Text/book-6-ch-01.xhtml"/>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Book 6 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-6-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Book 6 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-6-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Book 6 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-6-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Book 6 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-6-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Book 6 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-6-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Book 6 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-6-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Book 6 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-6-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Book 6 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-6-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Book 6 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-6-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Book 6 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-6-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Book 6 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-6-ch-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Book 6 – Chapter 13</text>
+        </navLabel>
+        <content src="Text/book-6-ch-13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Book 6 – Chapter 14</text>
+        </navLabel>
+        <content src="Text/book-6-ch-14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Book 6 – Chapter 15</text>
+        </navLabel>
+        <content src="Text/book-6-ch-15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Book 6 – Chapter 16</text>
+        </navLabel>
+        <content src="Text/book-6-ch-16.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-62" playOrder="62">
-      <navLabel>
-        <text>Secrecy and Openness</text>
-      </navLabel>
-      <content src="Text/book-6-ch-02.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-63" playOrder="63">
-      <navLabel>
-        <text>The Stanford Prison Experiment, Final</text>
-      </navLabel>
-      <content src="Text/book-6-ch-03.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-64" playOrder="64">
-      <navLabel>
-        <text>TSPE, Aftermaths</text>
-      </navLabel>
-      <content src="Text/book-6-ch-04.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-65" playOrder="65">
-      <navLabel>
-        <text>Contagious Lies</text>
-      </navLabel>
-      <content src="Text/book-6-ch-08.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-66" playOrder="66">
-      <navLabel>
-        <text>Self Actualization, Pt 1</text>
-      </navLabel>
-      <content src="Text/book-6-ch-09.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-67" playOrder="67">
-      <navLabel>
-        <text>Self Actualization, Pt 2</text>
-      </navLabel>
-      <content src="Text/book-6-ch-10.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-68" playOrder="68">
-      <navLabel>
-        <text>Self Actualization, Pt 3</text>
-      </navLabel>
-      <content src="Text/book-6-ch-11.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-69" playOrder="69">
-      <navLabel>
-        <text>Self Actualization, Pt 4</text>
-      </navLabel>
-      <content src="Text/book-6-ch-12.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-70" playOrder="70">
-      <navLabel>
-        <text>Self Actualization, Pt 5</text>
-      </navLabel>
-      <content src="Text/book-6-ch-13.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-71" playOrder="71">
-      <navLabel>
-        <text>Self Actualization, Pt 6</text>
-      </navLabel>
-      <content src="Text/book-6-ch-14.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-72" playOrder="72">
-      <navLabel>
-        <text>Plausible Deniability</text>
-      </navLabel>
-      <content src="Text/book-6-ch-15.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-73" playOrder="73">
+    <navPoint id="navPoint-102" playOrder="102">
       <navLabel>
         <text>Book 7: Escalation of Conflicts</text>
       </navLabel>
       <content src="Text/book-7-ch-01.xhtml"/>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Book 7 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-7-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Book 7 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-7-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Book 7 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-7-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>Book 7 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-7-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>Book 7 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-7-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Book 7 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-7-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Book 7 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-7-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>Book 7 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-7-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>Book 7 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-7-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>Book 7 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-7-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Book 7 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-7-ch-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Book 7 – Chapter 13</text>
+        </navLabel>
+        <content src="Text/book-7-ch-13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Book 7 – Chapter 14</text>
+        </navLabel>
+        <content src="Text/book-7-ch-14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Book 7 – Chapter 15</text>
+        </navLabel>
+        <content src="Text/book-7-ch-15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Book 7 – Chapter 16</text>
+        </navLabel>
+        <content src="Text/book-7-ch-16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Book 7 – Chapter 17</text>
+        </navLabel>
+        <content src="Text/book-7-ch-17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>Book 7 – Chapter 18</text>
+        </navLabel>
+        <content src="Text/book-7-ch-18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>Book 7 – Chapter 19</text>
+        </navLabel>
+        <content src="Text/book-7-ch-19.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-74" playOrder="74">
-      <navLabel>
-        <text>Escalation of Conflicts</text>
-      </navLabel>
-      <content src="Text/book-7-ch-02.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-75" playOrder="75">
-      <navLabel>
-        <text>Responsibility</text>
-      </navLabel>
-      <content src="Text/book-7-ch-05.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-76" playOrder="76">
-      <navLabel>
-        <text>Sunk Costs</text>
-      </navLabel>
-      <content src="Text/book-7-ch-06.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-77" playOrder="77">
-      <navLabel>
-        <text>Surface Appearances</text>
-      </navLabel>
-      <content src="Text/book-7-ch-07.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-78" playOrder="78">
-      <navLabel>
-        <text>Cheating</text>
-      </navLabel>
-      <content src="Text/book-7-ch-10.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-79" playOrder="79">
-      <navLabel>
-        <text>The Horns Effect</text>
-      </navLabel>
-      <content src="Text/book-7-ch-17.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-80" playOrder="80">
-      <navLabel>
-        <text>Taboo Tradeoffs, Pt 3</text>
-      </navLabel>
-      <content src="Text/book-7-ch-18.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-81" playOrder="81">
-      <navLabel>
-        <text>Taboo Tradeoffs, Final</text>
-      </navLabel>
-      <content src="Text/book-7-ch-19.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-82" playOrder="82">
+    <navPoint id="navPoint-121" playOrder="121">
       <navLabel>
         <text>Book 8: Time Pressure</text>
       </navLabel>
       <content src="Text/book-8-ch-01.xhtml"/>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>Book 8 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-8-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>Book 8 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-8-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>Book 8 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-8-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>Book 8 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-8-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Book 8 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-8-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>Book 8 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-8-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>Book 8 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-8-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>Book 8 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-8-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>Book 8 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-8-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>Book 8 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-8-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>Book 8 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-8-ch-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>Book 8 – Chapter 13</text>
+        </navLabel>
+        <content src="Text/book-8-ch-13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>Book 8 – Chapter 14</text>
+        </navLabel>
+        <content src="Text/book-8-ch-14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>Book 8 – Chapter 15</text>
+        </navLabel>
+        <content src="Text/book-8-ch-15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>Book 8 – Chapter 16</text>
+        </navLabel>
+        <content src="Text/book-8-ch-16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>Book 8 – Chapter 17</text>
+        </navLabel>
+        <content src="Text/book-8-ch-17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>Book 8 – Chapter 18</text>
+        </navLabel>
+        <content src="Text/book-8-ch-18.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-83" playOrder="83">
-      <navLabel>
-        <text>Taboo Tradeoffs, Aftermath 2</text>
-      </navLabel>
-      <content src="Text/book-8-ch-02.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-84" playOrder="84">
-      <navLabel>
-        <text>Distance</text>
-      </navLabel>
-      <content src="Text/book-8-ch-05.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-85" playOrder="85">
-      <navLabel>
-        <text>Multiple Hypothesis Testing</text>
-      </navLabel>
-      <content src="Text/book-8-ch-06.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-86" playOrder="86">
-      <navLabel>
-        <text>Hedonic Awareness</text>
-      </navLabel>
-      <content src="Text/book-8-ch-12.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-87" playOrder="87">
-      <navLabel>
-        <text>Time Pressure</text>
-      </navLabel>
-      <content src="Text/book-8-ch-13.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-88" playOrder="88">
-      <navLabel>
-        <text>Roles</text>
-      </navLabel>
-      <content src="Text/book-8-ch-15.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-89" playOrder="89">
-      <navLabel>
-        <text>Ender’s Game</text>
-      </navLabel>
-      <content src="Text/book-8-ch-16.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-90" playOrder="90">
-      <navLabel>
-        <text>Darkness</text>
-      </navLabel>
-      <content src="Text/book-8-ch-17.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-91" playOrder="91">
-      <navLabel>
-        <text>Never Ever Forever</text>
-      </navLabel>
-      <content src="Text/book-8-ch-18.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-92" playOrder="92">
+    <navPoint id="navPoint-139" playOrder="139">
       <navLabel>
         <text>Book 9: Final Exam</text>
       </navLabel>
       <content src="Text/book-9-ch-01.xhtml"/>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>Book 9 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-9-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>Book 9 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-9-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>Book 9 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-9-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>Book 9 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-9-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>Book 9 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-9-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>Book 9 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-9-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>Book 9 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-9-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>Book 9 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-9-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>Book 9 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-9-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>Book 9 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-9-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>Book 9 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-9-ch-12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>Book 9 – Chapter 13</text>
+        </navLabel>
+        <content src="Text/book-9-ch-13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>Book 9 – Chapter 14</text>
+        </navLabel>
+        <content src="Text/book-9-ch-14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>Book 9 – Chapter 15</text>
+        </navLabel>
+        <content src="Text/book-9-ch-15.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>Book 9 – Chapter 16</text>
+        </navLabel>
+        <content src="Text/book-9-ch-16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>Book 9 – Chapter 17</text>
+        </navLabel>
+        <content src="Text/book-9-ch-17.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>Book 9 – Chapter 18</text>
+        </navLabel>
+        <content src="Text/book-9-ch-18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>Book 9 – Chapter 19</text>
+        </navLabel>
+        <content src="Text/book-9-ch-19.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>Book 9 – Chapter 20</text>
+        </navLabel>
+        <content src="Text/book-9-ch-20.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>Book 9 – Chapter 21</text>
+        </navLabel>
+        <content src="Text/book-9-ch-21.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>Book 9 – Chapter 22</text>
+        </navLabel>
+        <content src="Text/book-9-ch-22.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>Book 9 – Chapter 23</text>
+        </navLabel>
+        <content src="Text/book-9-ch-23.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>Book 9 – Chapter 24</text>
+        </navLabel>
+        <content src="Text/book-9-ch-24.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-93" playOrder="93">
-      <navLabel>
-        <text>Fission Energy</text>
-      </navLabel>
-      <content src="Text/book-9-ch-02.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-94" playOrder="94">
-      <navLabel>
-        <text>Godric’s Hollow</text>
-      </navLabel>
-      <content src="Text/book-9-ch-03.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-95" playOrder="95">
-      <navLabel>
-        <text>Contracts</text>
-      </navLabel>
-      <content src="Text/book-9-ch-04.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-96" playOrder="96">
-      <navLabel>
-        <text>Educational Decrees</text>
-      </navLabel>
-      <content src="Text/book-9-ch-05.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-97" playOrder="97">
-      <navLabel>
-        <text>Precautionary Measures</text>
-      </navLabel>
-      <content src="Text/book-9-ch-06.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-98" playOrder="98">
-      <navLabel>
-        <text>Caring</text>
-      </navLabel>
-      <content src="Text/book-9-ch-08.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-99" playOrder="99">
-      <navLabel>
-        <text>Tests</text>
-      </navLabel>
-      <content src="Text/book-9-ch-09.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-100" playOrder="100">
-      <navLabel>
-        <text>Riddles and Answers</text>
-      </navLabel>
-      <content src="Text/book-9-ch-10.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-101" playOrder="101">
-      <navLabel>
-        <text>The Truth</text>
-      </navLabel>
-      <content src="Text/book-9-ch-13.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-102" playOrder="102">
-      <navLabel>
-        <text>Answers and Riddles</text>
-      </navLabel>
-      <content src="Text/book-9-ch-16.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-103" playOrder="103">
-      <navLabel>
-        <text>Reflections</text>
-      </navLabel>
-      <content src="Text/book-9-ch-20.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-104" playOrder="104">
-      <navLabel>
-        <text>Failure</text>
-      </navLabel>
-      <content src="Text/book-9-ch-22.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-105" playOrder="105">
-      <navLabel>
-        <text>Final Exam</text>
-      </navLabel>
-      <content src="Text/book-9-ch-24.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-106" playOrder="106">
+    <navPoint id="navPoint-163" playOrder="163">
       <navLabel>
         <text>Book 10: Something to Protect</text>
       </navLabel>
-      <content src="Text/book-x-ch-13.xhtml"/>
+      <content src="Text/book-x-ch-01.xhtml"/>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>Book 10 – Chapter 2</text>
+        </navLabel>
+        <content src="Text/book-x-ch-02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>Book 10 – Chapter 3</text>
+        </navLabel>
+        <content src="Text/book-x-ch-03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>Book 10 – Chapter 4</text>
+        </navLabel>
+        <content src="Text/book-x-ch-04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>Book 10 – Chapter 5</text>
+        </navLabel>
+        <content src="Text/book-x-ch-05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>Book 10 – Chapter 6</text>
+        </navLabel>
+        <content src="Text/book-x-ch-06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>Book 10 – Chapter 7</text>
+        </navLabel>
+        <content src="Text/book-x-ch-07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>Book 10 – Chapter 8</text>
+        </navLabel>
+        <content src="Text/book-x-ch-08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>Book 10 – Chapter 9</text>
+        </navLabel>
+        <content src="Text/book-x-ch-09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>Book 10 – Chapter 10</text>
+        </navLabel>
+        <content src="Text/book-x-ch-10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>Book 10 – Chapter 11</text>
+        </navLabel>
+        <content src="Text/book-x-ch-11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>Book 10 – Chapter 12</text>
+        </navLabel>
+        <content src="Text/book-x-ch-12.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-107" playOrder="107">
-      <navLabel>
-        <text>Aftermath, Something to Protect, Pt 0</text>
-      </navLabel>
-      <content src="Text/book-x-ch-14.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-108" playOrder="108">
-      <navLabel>
-        <text>Something to Protect: Minerva McGonagall</text>
-      </navLabel>
-      <content src="Text/book-x-ch-15.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-109" playOrder="109">
-      <navLabel>
-        <text>Something to Protect: Professor Quirrell</text>
-      </navLabel>
-      <content src="Text/book-x-ch-16.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-110" playOrder="110">
-      <navLabel>
-        <text>Something to Protect: Albus Dumbledore</text>
-      </navLabel>
-      <content src="Text/book-x-ch-17.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-111" playOrder="111">
-      <navLabel>
-        <text>Something to Protect: Draco Malfoy</text>
-      </navLabel>
-      <content src="Text/book-x-ch-19.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-112" playOrder="112">
-      <navLabel>
-        <text>Something to Protect: Severus Snape</text>
-      </navLabel>
-      <content src="Text/book-x-ch-20.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-113" playOrder="113">
-      <navLabel>
-        <text>Something to Protect: Hermione Granger</text>
-      </navLabel>
-      <content src="Text/book-x-ch-21.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-114" playOrder="114">
+    <navPoint id="navPoint-175" playOrder="175">
       <navLabel>
         <text>Afterword</text>
       </navLabel>
       <content src="Text/afterword.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-115" playOrder="115">
+    <navPoint id="navPoint-176" playOrder="176">
       <navLabel>
-        <text>Omake Files 1, 2, 3</text>
+        <text>Omake Files 1</text>
       </navLabel>
       <content src="Text/omake-0001.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-116" playOrder="116">
+    <navPoint id="navPoint-177" playOrder="177">
+      <navLabel>
+        <text>Omake Files 2</text>
+      </navLabel>
+      <content src="Text/omake-0002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-178" playOrder="178">
+      <navLabel>
+        <text>Omake Files 3</text>
+      </navLabel>
+      <content src="Text/omake-0003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-179" playOrder="179">
       <navLabel>
         <text>Omake Files 4, Alternate Parallels</text>
       </navLabel>

@@ -1,14 +1,14 @@
-body{font-family:Garamond,serif;line-height:1.5em}
+body{font-family:Merriweather,serif;line-height:1.5em;font-weight:300}
 p{text-align:justify;margin:0;text-indent:2em;}
 p:first-child{text-indent:0}
 i{font-style: italic}
-.thought{font-family:Garamond,serif;font-style: italic;}
+.thought{font-family:Merriweather,serif;font-style: italic;}
 em{font-style: italic}
-.parsel{voice-stress: moderate; voice-rate: fast;font-family:Garamond,serif;}
+.parsel{voice-stress: moderate; voice-rate: fast;font-family:Merriweather,serif;}
 .ps:after{content:"s"; speak: none}
 
-.hand{font-family:Garamond,serif;font-style: italic;}
-.print{text-align:center;font-family:Garamond,serif;font-style: italic;}
+.hand{font-family:Merriweather,serif;font-style: italic;}
+.print{text-align:center;font-family:Merriweather,serif;font-style: italic;}
 .shout{text-transform: uppercase}
 blockquote{margin: 0 2em;padding:1em}
 blockquote p{margin: .5em 0;text-indent: 0}
@@ -18,10 +18,20 @@ td:first-child{text-align:right}
 
 .strike {color: gray; font-size: .8em}
 
-blockquote.memory{margin:0;font-family:Garamond,serif;font-style: italic;}
+p.title, p.subtitle {
+margin: 0 2em;text-indent: 0;text-align:center;font-size: 150%;
+}
+p.subtitle {
+margin: 1em 2em 0; font-size: 250%;
+}
+
+
+blockquote.memory{margin:0;font-family:Merriweather,serif;font-style: italic;}
 blockquote.memory p{text-align:justify;margin:0;text-indent:1em;}
 
-hr {border:none;height:1px;width:15em;margin:2em auto;text-align:center;color:inherit; background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));}
+hr {border:none;margin:1.5em auto;text-align:center;color:inherit; background: none;}
+
+hr:before {content: "✩    ✩    ✩";white-space: pre;}
 
 .centered {
     text-align: center;
@@ -35,26 +45,45 @@ h1 {
     font-size: 2em;
     font-weight: lighter;
     line-height: 1.2;
-    font-family: HennyPenny,cursive;
-    margin: 0.67em 0;
+    margin: 0.67em 0 2.67em;
     text-align:center
 }
 
+h1:before {
+  content: "🙙  ";white-space: pre;font-size: 75%;
+}
+h1:after {
+  content: "  🙛";white-space: pre;font-size: 75%;
+}
+
+h2 {
+    display: block;
+    font-size: 133%;
+    line-height: 1.2;
+    margin: 0.67em 0;
+    text-align:center;
+    font-weight: inherit;
+}
+
+
+h2:before {
+  content: "✩    ";white-space: pre;font-size: 75%;
+}
+h2:after {
+  content: "    ✩";white-space: pre;font-size: 75%;
+}
+
+
 @font-face {
-    font-family: 'Garamond';
+    font-family: 'Merriweather';
     font-style: normal;
     font-weight: normal;
-    src: url("../Fonts/EBGaramond-Regular.ttf");
+    src: url("../Fonts/Merriweather-Light.ttf");
 }
 @font-face {
-    font-family: 'Garamond';
+    font-family: 'Merriweather';
     font-style: italic;
     font-weight: normal;
-    src: url("../Fonts/EBGaramond-Italic.ttf");
+    src: url("../Fonts/Merriweather-LightItalic.ttf");
 }
-@font-face {
-    font-family: 'HennyPenny';
-    font-style: normal;
-    font-weight: normal;
-    src: url("../Fonts/HennyPenny-Regular.ttf");
-}
+

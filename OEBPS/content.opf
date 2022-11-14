@@ -8,7 +8,7 @@
     <meta name="cover" content="cover"/>
     <dc:identifier id="uuid_id" opf:scheme="uuid">01fcf157-c724-4f3a-9acc-22dd286f69f9</dc:identifier>
     <meta content="1.6.0" name="Sigil version"/>
-    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2021-05-23</dc:date>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2021-05-27</dc:date>
   </metadata>
   <manifest>
     <item id="cover" href="Images/cover.jpg" media-type="image/jpeg"/>
@@ -118,14 +118,14 @@
     <item id="book-9-ch-21.xhtml" href="Text/book-9-ch-21.xhtml" media-type="application/xhtml+xml"/>
     <item id="book-9-ch-23.xhtml" href="Text/book-9-ch-23.xhtml" media-type="application/xhtml+xml"/>
     <item id="book-9-ch-24.xhtml" href="Text/book-9-ch-24.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-13.xhtml" href="Text/book-x-ch-13.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-14.xhtml" href="Text/book-x-ch-14.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-15.xhtml" href="Text/book-x-ch-15.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-16.xhtml" href="Text/book-x-ch-16.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-18.xhtml" href="Text/book-x-ch-18.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-19.xhtml" href="Text/book-x-ch-19.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-20.xhtml" href="Text/book-x-ch-20.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-24.xhtml" href="Text/book-x-ch-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-01.xhtml" href="Text/book-x-ch-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-02.xhtml" href="Text/book-x-ch-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-03.xhtml" href="Text/book-x-ch-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-04.xhtml" href="Text/book-x-ch-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-06.xhtml" href="Text/book-x-ch-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-07.xhtml" href="Text/book-x-ch-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-08.xhtml" href="Text/book-x-ch-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-12.xhtml" href="Text/book-x-ch-12.xhtml" media-type="application/xhtml+xml"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item id="chapter-0000.xhtml" href="Text/chapter-0000.xhtml" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
@@ -198,10 +198,10 @@
     <item id="book-9-ch-18.xhtml" href="Text/book-9-ch-18.xhtml" media-type="application/xhtml+xml"/>
     <item id="book-9-ch-20.xhtml" href="Text/book-9-ch-20.xhtml" media-type="application/xhtml+xml"/>
     <item id="book-9-ch-22.xhtml" href="Text/book-9-ch-22.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-17.xhtml" href="Text/book-x-ch-17.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-21.xhtml" href="Text/book-x-ch-21.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-23.xhtml" href="Text/book-x-ch-23.xhtml" media-type="application/xhtml+xml"/>
-    <item id="book-x-ch-22.xhtml" href="Text/book-x-ch-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-05.xhtml" href="Text/book-x-ch-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-09.xhtml" href="Text/book-x-ch-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-11.xhtml" href="Text/book-x-ch-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-x-ch-10.xhtml" href="Text/book-x-ch-10.xhtml" media-type="application/xhtml+xml"/>
     <item id="book-7-ch-10.xhtml" href="Text/book-7-ch-10.xhtml" media-type="application/xhtml+xml"/>
     <item id="book-7-ch-11.xhtml" href="Text/book-7-ch-11.xhtml" media-type="application/xhtml+xml"/>
     <item id="book-1-ch-09.xhtml" href="Text/book-1-ch-09.xhtml" media-type="application/xhtml+xml"/>
@@ -210,6 +210,8 @@
     <item id="foreword.xhtml" href="Text/foreword.xhtml" media-type="application/xhtml+xml"/>
     <item id="afterword.xhtml" href="Text/afterword.xhtml" media-type="application/xhtml+xml"/>
     <item id="xf6705241-c3aa-4c50-a58f-7b8a3848b770" href="Styles/sgc-toc.css" media-type="text/css"/>
+    <item id="Merriweather-LightItalic.ttf" href="Fonts/Merriweather-LightItalic.ttf" media-type="font/ttf"/>
+    <item id="Merriweather-Light.ttf" href="Fonts/Merriweather-Light.ttf" media-type="font/ttf"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="TOC.xhtml"/>
@@ -374,18 +376,18 @@
     <itemref idref="book-9-ch-22.xhtml"/>
     <itemref idref="book-9-ch-23.xhtml"/>
     <itemref idref="book-9-ch-24.xhtml"/>
-    <itemref idref="book-x-ch-13.xhtml"/>
-    <itemref idref="book-x-ch-14.xhtml"/>
-    <itemref idref="book-x-ch-15.xhtml"/>
-    <itemref idref="book-x-ch-16.xhtml"/>
-    <itemref idref="book-x-ch-17.xhtml"/>
-    <itemref idref="book-x-ch-18.xhtml"/>
-    <itemref idref="book-x-ch-19.xhtml"/>
-    <itemref idref="book-x-ch-20.xhtml"/>
-    <itemref idref="book-x-ch-21.xhtml"/>
-    <itemref idref="book-x-ch-22.xhtml"/>
-    <itemref idref="book-x-ch-23.xhtml"/>
-    <itemref idref="book-x-ch-24.xhtml"/>
+    <itemref idref="book-x-ch-01.xhtml"/>
+    <itemref idref="book-x-ch-02.xhtml"/>
+    <itemref idref="book-x-ch-03.xhtml"/>
+    <itemref idref="book-x-ch-04.xhtml"/>
+    <itemref idref="book-x-ch-05.xhtml"/>
+    <itemref idref="book-x-ch-06.xhtml"/>
+    <itemref idref="book-x-ch-07.xhtml"/>
+    <itemref idref="book-x-ch-08.xhtml"/>
+    <itemref idref="book-x-ch-09.xhtml"/>
+    <itemref idref="book-x-ch-10.xhtml"/>
+    <itemref idref="book-x-ch-11.xhtml"/>
+    <itemref idref="book-x-ch-12.xhtml"/>
     <itemref idref="afterword.xhtml"/>
     <itemref idref="triggerwarnings.xhtml"/>
     <itemref idref="omake-0001.xhtml"/>
